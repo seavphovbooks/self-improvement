@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package unique-identifier="id" version="3.0" xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2019-03-28T14:59:18Z</meta>
+    <meta content="Ebook-lib 0.17.1" name="generator"/>
+    <meta name="cover" content="cover-img"></meta>
+    <meta property="schema:accessibilitySummary">The publication was generated using automated character recognition, therefore it may not be an accurate rendition of the original text, and it may not offer the correct reading sequence.This publication is missing meaningful alternative text.The publication otherwise meets WCAG 2.0 Level A.</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta property="schema:accessibilityControl">fullKeyboardControl</meta>
+    <meta property="schema:accessibilityControl">fullMouseControl</meta>
+    <meta property="schema:accessibilityControl">fullSwitchControl</meta>
+    <meta property="schema:accessibilityControl">fullTouchControl</meta>
+    <meta property="schema:accessibilityControl">fullVoiceControl</meta>
+    <dc:description>That is an excellent book for those who want to improve themselves and become a better person.</dc:description>
+    <dc:subject>positive</dc:subject>
+    <dc:subject>thinking</dc:subject>
+    <dc:subject>success</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:title>Power Of Positive Thinking</dc:title>
+    <dc:identifier id="id">PowerOfPositiveThinking</dc:identifier>
+    <dc:identifier>Access URL: http://archive.org/details/PowerOfPositiveThinking</dc:identifier>
+    <dc:identifier>urn:ark:ark:/13960/t53f9x817</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="images/cover.png" id="cover-img" media-type="image/png" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="chap_0001.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="images/img_0001.png" id="image_0" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="style/style.css" id="style_nav" media-type="text/css"/>
+  </manifest>
+  <spine page-progression-direction="default" toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav"/>
+    <itemref idref="chapter_0"/>
+  </spine>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>9879552</integer>
+	<key>BKDisplayName</key>
+	<string>The Four</string>
+	<key>BKGenerationCount</key>
+	<integer>3</integer>
+	<key>BKInsertionDate</key>
+	<integer>589195893</integer>
+	<key>artistName</key>
+	<string>Scott Galloway</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>5DDB4042DF53154B253644903E9C470D</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/image/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>9561F6A775A7C429B3B568425F9FA657</string>
+		<key>publisher-unique-id</key>
+		<string>9780735213661</string>
+		<key>unique-id</key>
+		<integer>7078994092224165584</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>Amazon, Apple, Facebook, and Google are the four most influential companies on the planet.  Just about everyone thinks they know how they got there.  Just about everyone is wrong. For all that's been written about the Four over the last two decades, no one has captured their power and staggering success as insightfully as Scott Galloway.  Instead of buying the myths these compa&amp;shy;nies broadcast, Galloway asks fundamental questions. How did the Four infiltrate our lives so completely that they're almost impossible to avoid (or boycott)? Why does the stock market forgive them for sins that would destroy other firms? And as they race to become the world's first trillion-dollar company, can anyone chal&amp;shy;lenge them?  In the same irreverent style that has made him one of the world's most celebrated business professors, Galloway deconstructs the strategies of the Four that lurk beneath their shiny veneers. He shows how they...</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>The Four</string>
+	<key>versionNumber</key>
+	<real>0.0</real>
+</dict>
+</plist>

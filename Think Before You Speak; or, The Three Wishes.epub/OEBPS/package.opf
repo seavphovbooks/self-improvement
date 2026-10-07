@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="id">
+<metadata>
+<dc:title id="t1">Think Before You Speak; or, The Three Wishes</dc:title>
+<meta refines="#t1" property="title-type">main</meta>
+<meta refines="#t1" property="display-seq">1</meta>
+<dc:creator id="creator1">Catherine Ann Turner Dorset</dc:creator>
+<meta refines="#creator1" property="file-as">Dorset, Catherine Ann Turner</meta>
+<meta refines="#creator1" property="role" scheme="marc:relators">aut</meta>
+<meta refines="#creator1" property="display-seq">1</meta>
+<dc:creator id="creator2">Madame Leprince de Beaumont</dc:creator>
+<meta refines="#creator2" property="file-as">Beaumont, Madame Leprince de</meta>
+<meta refines="#creator2" property="role" scheme="marc:relators">aut</meta>
+<meta refines="#creator2" property="display-seq">2</meta>
+<dc:identifier id="id">etext25698</dc:identifier>
+<dc:source>etext25698</dc:source>
+<dc:language>en</dc:language>
+<dc:publisher>Public Domain</dc:publisher>
+<dc:format>36 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:date>2015-09-23</dc:date>
+<meta property="dcterms:modified">2015-09-23T00:00:00Z</meta>
+</metadata>
+<manifest>
+<item id="toc1" properties="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml"/>
+<item id="item1" media-type="image/jpeg" href="images/frontis.jpg"/>
+<item id="item2" media-type="image/png" href="images/rule-160.png"/>
+<item id="item3" media-type="image/jpeg" href="images/fairy.jpg"/>
+<item id="item4" media-type="image/jpeg" href="images/hare.jpg"/>
+<item id="item5" media-type="image/jpeg" href="images/pudding.jpg"/>
+<item id="item6" media-type="image/jpeg" href="images/nose.jpg"/>
+<item id="item7" media-type="image/jpeg" href="images/chimney.jpg"/>
+<item id="item8" media-type="text/css" href="css/pgepub.css"/>
+<item id="item9" media-type="text/css" href="css/0.css"/>
+<item id="item10" media-type="text/css" href="css/1.css"/>
+<item id="item11" media-type="application/xhtml+xml" href="xhtml/25698-h-0.xhtml"/>
+<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="item11" linear="yes"/>
+</spine>
+</package>

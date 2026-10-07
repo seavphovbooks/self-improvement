@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+<meta content="etext25698" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta name="dtb:totalPageCount" content="36"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Think Before You Speak; or, The Three Wishes</text></docTitle>
+<navMap>
+<navPoint id="toc1" playOrder="1"><navLabel><text>Title Page</text></navLabel><content src="xhtml/25698-h-0.xhtml#pgepubid00000"/></navPoint>
+<navPoint id="toc2" playOrder="2"><navLabel><text>Preface</text></navLabel><content src="xhtml/25698-h-0.xhtml#pgepubid00001"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Reading Begins</text></navLabel><content src="xhtml/25698-h-0.xhtml#pgepubid00002"/></navPoint>
+</navMap>
+<pageList id="page" class="pagelist"><navLabel><text>Pages</text></navLabel>
+<pageTarget id="toc4" playOrder="4" type="front" value="1"><navLabel><text>[A]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_A"/></pageTarget>
+<pageTarget id="toc5" playOrder="5" type="front" value="2"><navLabel><text>[B]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_B"/></pageTarget>
+<pageTarget id="toc6" playOrder="6" type="body" value="3"><navLabel><text>[6]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_6"/></pageTarget>
+<pageTarget id="toc7" playOrder="7" type="body" value="4"><navLabel><text>[7]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_7"/></pageTarget>
+<pageTarget id="toc8" playOrder="8" type="body" value="5"><navLabel><text>[8]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_8"/></pageTarget>
+<pageTarget id="toc9" playOrder="9" type="body" value="6"><navLabel><text>[9]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_9"/></pageTarget>
+<pageTarget id="toc10" playOrder="10" type="body" value="7"><navLabel><text>[10]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_10"/></pageTarget>
+<pageTarget id="toc11" playOrder="11" type="body" value="8"><navLabel><text>[11]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_11"/></pageTarget>
+<pageTarget id="toc12" playOrder="12" type="body" value="9"><navLabel><text>[12]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_12"/></pageTarget>
+<pageTarget id="toc13" playOrder="13" type="body" value="10"><navLabel><text>[13]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_13"/></pageTarget>
+<pageTarget id="toc14" playOrder="14" type="body" value="11"><navLabel><text>[14]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_14"/></pageTarget>
+<pageTarget id="toc15" playOrder="15" type="body" value="12"><navLabel><text>[15]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_15"/></pageTarget>
+<pageTarget id="toc16" playOrder="16" type="body" value="13"><navLabel><text>[16]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_16"/></pageTarget>
+<pageTarget id="toc17" playOrder="17" type="body" value="14"><navLabel><text>[17]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_17"/></pageTarget>
+<pageTarget id="toc18" playOrder="18" type="body" value="15"><navLabel><text>[18]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_18"/></pageTarget>
+<pageTarget id="toc19" playOrder="19" type="body" value="16"><navLabel><text>[19]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_19"/></pageTarget>
+<pageTarget id="toc20" playOrder="20" type="body" value="17"><navLabel><text>[20]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_20"/></pageTarget>
+<pageTarget id="toc21" playOrder="21" type="body" value="18"><navLabel><text>[21]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_21"/></pageTarget>
+<pageTarget id="toc22" playOrder="22" type="body" value="19"><navLabel><text>[22]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_22"/></pageTarget>
+<pageTarget id="toc23" playOrder="23" type="body" value="20"><navLabel><text>[23]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_23"/></pageTarget>
+<pageTarget id="toc24" playOrder="24" type="body" value="21"><navLabel><text>[24]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_24"/></pageTarget>
+<pageTarget id="toc25" playOrder="25" type="body" value="22"><navLabel><text>[25]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_25"/></pageTarget>
+<pageTarget id="toc26" playOrder="26" type="body" value="23"><navLabel><text>[26]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_26"/></pageTarget>
+<pageTarget id="toc27" playOrder="27" type="body" value="24"><navLabel><text>[27]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_27"/></pageTarget>
+<pageTarget id="toc28" playOrder="28" type="body" value="25"><navLabel><text>[28]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_28"/></pageTarget>
+<pageTarget id="toc29" playOrder="29" type="body" value="26"><navLabel><text>[29]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_29"/></pageTarget>
+<pageTarget id="toc30" playOrder="30" type="body" value="27"><navLabel><text>[30]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_30"/></pageTarget>
+<pageTarget id="toc31" playOrder="31" type="body" value="28"><navLabel><text>[31]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_31"/></pageTarget>
+<pageTarget id="toc32" playOrder="32" type="body" value="29"><navLabel><text>[32]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_32"/></pageTarget>
+<pageTarget id="toc33" playOrder="33" type="body" value="30"><navLabel><text>[33]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_33"/></pageTarget>
+<pageTarget id="toc34" playOrder="34" type="body" value="31"><navLabel><text>[34]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_34"/></pageTarget>
+<pageTarget id="toc35" playOrder="35" type="body" value="32"><navLabel><text>[35]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_35"/></pageTarget>
+<pageTarget id="toc36" playOrder="36" type="body" value="33"><navLabel><text>[36]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_36"/></pageTarget>
+<pageTarget id="toc37" playOrder="37" type="body" value="34"><navLabel><text>[37]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_37"/></pageTarget>
+<pageTarget id="toc38" playOrder="38" type="body" value="35"><navLabel><text>[38]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_38"/></pageTarget>
+<pageTarget id="toc39" playOrder="39" type="body" value="36"><navLabel><text>[39]</text></navLabel><content src="xhtml/25698-h-0.xhtml#page_39"/></pageTarget>
+</pageList>
+</ncx>

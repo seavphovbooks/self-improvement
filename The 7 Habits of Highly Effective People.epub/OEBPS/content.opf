@@ -1,0 +1,130 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4b4d7d5d-a3e4-4237-a39f-a83ac8795210</dc:identifier>
+    <dc:title>The 7 Habits of Highly Effective People</dc:title>
+    <dc:identifier opf:scheme="ISBN">9780795323423</dc:identifier>
+    <dc:creator opf:role="aut">Stephen R. Covey</dc:creator>
+    <dc:publisher>RosettaBooks</dc:publisher>
+    <dc:language>en</dc:language>
+    <meta content="cover.jpg" name="cover"/>
+    <meta content="0.5.3" name="Sigil version"/>
+  <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;When it was first published, in 1990, &lt;i&gt;The 7 Habits of Highly Effective People&lt;/i&gt; was an almost instant bestseller&amp;#8212;and became a permanent part of the cultural lexicon. With more than 15 million copies sold in over 33 languages and 75 countries since its first publication, this book continues to help millions of people become more effective&amp;#8212;both in their personal and professional lives.&lt;p&gt;What author Stephen R. Covey advocates is no less than a paradigm shift&amp;#8212;a major change in how readers perceive the world. This encompasses time management, proactivity, positive thinking, spiritual life, communication, and more. With compelling anecdotes and penetrating insight on every page, Dr. Covey guides the way to a life lived with integrity, service, dignity, and success&amp;#8212;both at home and at work.&lt;p&gt;ABOUT THE AUTHOR&lt;p&gt;A well-known authority on leadership and family relations, Dr. Stephen R. Covey holds a Bachelor of Science from the University of Utah, an MBA...</description>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/abouta.xhtml" id="abouta.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/titlpge.xhtml" id="titlpge.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/contents.xhtml" id="contents.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/acknowledgements.xhtml" id="acknowledgements.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part1.xhtml" id="part1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part2.xhtml" id="part2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part3.xhtml" id="part3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/part4.xhtml" id="part4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/personalnote.xhtml" id="personalnote.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/afterword.xhtml" id="afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/appenda.xhtml" id="appenda.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/appendb.xhtml" id="appendb.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/problemind.xhtml" id="problemind.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/index.xhtml" id="index.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/franklin.xhtml" id="franklin.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/image006.jpg" id="image006.jpg" media-type="image/jpeg"/>
+    <item href="Images/138-1.jpg" id="image006a.jpg" media-type="image/jpeg"/>
+    <item href="Images/image007.jpg" id="image007.jpg" media-type="image/jpeg"/>
+    <item href="Images/image008.jpg" id="image008.jpg" media-type="image/jpeg"/>
+    <item href="Images/image009.jpg" id="image009.jpg" media-type="image/jpeg"/>
+    <item href="Images/image010.jpg" id="image010.jpg" media-type="image/jpeg"/>
+    <item href="Images/image016.jpg" id="image016.jpg" media-type="image/jpeg"/>
+    <item href="Images/image017.jpg" id="image017.jpg" media-type="image/jpeg"/>
+    <item href="Images/image018.jpg" id="image018.jpg" media-type="image/jpeg"/>
+    <item href="Images/image019.jpg" id="image019.jpg" media-type="image/jpeg"/>
+    <item href="Images/image025.jpg" id="image025.jpg" media-type="image/jpeg"/>
+    <item href="Images/image025a.jpg" id="image025a.jpg" media-type="image/jpeg"/>
+    <item href="Images/image026.jpg" id="image026.jpg" media-type="image/jpeg"/>
+    <item href="Images/image026a.jpg" id="image026a.jpg" media-type="image/jpeg"/>
+    <item href="Images/image029.jpg" id="image029.jpg" media-type="image/jpeg"/>
+    <item href="Images/image030.jpg" id="image030.jpg" media-type="image/jpeg"/>
+    <item href="Images/image031.jpg" id="image031.jpg" media-type="image/jpeg"/>
+    <item href="Images/image032.jpg" id="image032.jpg" media-type="image/jpeg"/>
+    <item href="Images/image033.jpg" id="image033.jpg" media-type="image/jpeg"/>
+    <item href="Images/image034.jpg" id="image034.jpg" media-type="image/jpeg"/>
+    <item href="Images/image036.jpg" id="image036.jpg" media-type="image/jpeg"/>
+    <item href="Images/image037.png" id="image037.png" media-type="image/png"/>
+    <item href="Images/image024.jpg" id="image024.jpg" media-type="image/jpeg"/>
+    <item href="Images/image028.jpg" id="image028.jpg" media-type="image/jpeg"/>
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/image011.jpg" id="image011.jpg" media-type="image/jpeg"/>
+    <item href="Images/time_manage.jpg" id="time_manage.jpg" media-type="image/jpeg"/>
+    <item href="Images/image022.jpg" id="image022.jpg" media-type="image/jpeg"/>
+    <item href="Images/image023.jpg" id="image023.jpg" media-type="image/jpeg"/>
+    <item href="Images/image027.jpg" id="image027.jpg" media-type="image/jpeg"/>
+    <item href="Images/image002.jpg" id="image002.jpg" media-type="image/jpeg"/>
+    <item href="Images/image003.jpg" id="image003.jpg" media-type="image/jpeg"/>
+    <item href="Images/image004.jpg" id="image004.jpg" media-type="image/jpeg"/>
+    <item href="Images/image038.jpg" id="image038.jpg" media-type="image/jpeg"/>
+    <item href="Images/image039.jpg" id="image039.jpg" media-type="image/jpeg"/>
+    <item href="Images/image040.jpg" id="image040.jpg" media-type="image/jpeg"/>
+    <item href="Images/image035.jpg" id="image035.jpg" media-type="image/jpeg"/>
+    <item href="Images/image001.jpg" id="image001.jpg" media-type="image/jpeg"/>
+    <item href="Images/image005.png" id="image005.png" media-type="image/png"/>
+    <item href="Images/image012.png" id="image012.png" media-type="image/png"/>
+    <item href="Images/image013.png" id="image013.png" media-type="image/png"/>
+    <item href="Images/image014.png" id="image014.png" media-type="image/png"/>
+    <item href="Images/image015.png" id="image015.png" media-type="image/png"/>
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/image041.jpg" id="image041.jpg" media-type="image/jpeg"/>
+    <item href="Images/imagechart1.png" id="imagechart1.png" media-type="image/png"/>
+    <item href="Images/imagechart2.png" id="imagechart2.png" media-type="image/png"/>
+    <item href="Images/imagechart3.png" id="imagechart3.png" media-type="image/png"/>
+    <item href="Images/imagechart4.png" id="imagechart4.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlpge.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+    <itemref idref="dedication.xhtml"/>
+    <itemref idref="acknowledgements.xhtml"/>
+    <itemref idref="contents.xhtml"/>
+    <itemref idref="foreword.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="part4.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="personalnote.xhtml"/>
+    <itemref idref="afterword.xhtml"/>
+    <itemref idref="appenda.xhtml"/>
+    <itemref idref="appendb.xhtml"/>
+    <itemref idref="problemind.xhtml"/>
+    <itemref idref="index.xhtml"/>
+    <itemref idref="franklin.xhtml"/>
+    <itemref idref="abouta.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

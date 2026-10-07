@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:4b4d7d5d-a3e4-4237-a39f-a83ac8795210" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The 7 Habits of Highly Effective People</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-3" playOrder="1">
+      <navLabel>
+        <text>The 7 Habits of Highly Effective People</text>
+      </navLabel>
+      <content src="Text/titlpge.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="Text/dedication.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="4">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="Text/contents.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="5">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="Text/acknowledgements.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="6">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="Text/foreword.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="7">
+      <navLabel>
+        <text>PART ONE</text>
+      </navLabel>
+      <content src="Text/part1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="8">
+        <navLabel>
+          <text>Inside-Out</text>
+        </navLabel>
+        <content src="Text/Section0001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="9">
+        <navLabel>
+          <text>The Seven Habits—An Overview</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml"/>
+      </navPoint>    
+      <navPoint id="navPoint-12" playOrder="10">
+      <navLabel>
+        <text>Part Two</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="11">
+        <navLabel>
+          <text>Habit 1 Be Proactive</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="12">
+        <navLabel>
+          <text>Principles of Personal Vision</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#chap3"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="13">
+        <navLabel>
+          <text>Habit 2 Begin with the End In</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="14">
+        <navLabel>
+          <text>Principles of Personal Leadership</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#chap4"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="15">
+        <navLabel>
+          <text>Habit 3 Put First Things First</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="16">
+        <navLabel>
+          <text>Principles of Personal Management</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#chap5"/>
+      </navPoint>    
+    <navPoint id="navPoint-19" playOrder="17">
+      <navLabel>
+        <text>Part Three</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="18">
+        <navLabel>
+          <text>Paradigms of Interdependence</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="19">
+        <navLabel>
+          <text>Habit 4 Think Win/Win</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="20">
+        <navLabel>
+          <text>Principles of Interpersonal Leadership</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#chap7"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="21">
+        <navLabel>
+          <text>Habit 5 Seek First to understand, then to be Understood</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="22">
+        <navLabel>
+          <text>Principles of Emphatic Communication</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#chap8"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="23">
+        <navLabel>
+          <text>Habit 6 SYNERGIZE</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="24">
+        <navLabel>
+          <text>Principles of CREATIVE COOPERATION</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#chap9"/>
+      </navPoint>    
+    <navPoint id="navPoint-27" playOrder="25">
+      <navLabel>
+        <text>PART FOUR</text>
+      </navLabel>
+      <content src="Text/part4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="26">
+        <navLabel>
+          <text>Habit 7 SHARPEN THE SAW</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="27">
+        <navLabel>
+          <text>Principles of BALANCED SELF-RENEWAL</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#chap10"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="28">
+        <navLabel>
+          <text>Inside-Out Again</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="29">
+        <navLabel>
+          <text>A Personal Note</text>
+        </navLabel>
+        <content src="Text/personalnote.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="30">
+        <navLabel>
+          <text>Afterword: Questions I am Often Asked</text>
+        </navLabel>
+        <content src="Text/afterword.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="31">
+        <navLabel>
+          <text>Appendix A</text>
+        </navLabel>
+        <content src="Text/appenda.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="32">
+        <navLabel>
+          <text>Appendix B</text>
+        </navLabel>
+        <content src="Text/appendb.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="33">
+        <navLabel>
+          <text>Problem/Opportunity Index</text>
+        </navLabel>
+        <content src="Text/problemind.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="34">
+        <navLabel>
+          <text>Index</text>
+        </navLabel>
+        <content src="Text/index.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="35">
+        <navLabel>
+          <text>About Franklin Covey</text>
+        </navLabel>
+        <content src="Text/franklin.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="36">
+        <navLabel>
+          <text>About the Author</text>
+        </navLabel>
+        <content src="Text/abouta.xhtml"/>
+      </navPoint>    
+  </navMap>
+</ncx>

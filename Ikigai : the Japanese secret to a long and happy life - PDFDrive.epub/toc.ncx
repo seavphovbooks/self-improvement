@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="b2357867-272c-4515-93f3-b8cedaba534b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (8.4.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Ikigai : the Japanese secret to a long and happy life - PDFDrive.com</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uHPQoOqHXsu8l4CLwsyovlC" playOrder="1">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="uAuOebRBXiCNQkmhkKdvOj7" playOrder="2">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="u6wpo4eXffoYOKTuaobUp36" playOrder="3">
+      <navLabel>
+        <text>chapter IV, disciplines with clear rules are good for flow. If you don’t like any of</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint id="u2ti4wFT9GAWD3Fy3JXlAW8" playOrder="4">
+      <navLabel>
+        <text>EPILOGUE</text>
+      </navLabel>
+      <content src="index_split_031.html"/>
+    </navPoint>
+    <navPoint id="uGyeVSZDGL8vRam4pL2RHo6" playOrder="5">
+      <navLabel>
+        <text>Chapter II. Antiaging Secrets</text>
+      </navLabel>
+      <content src="index_split_033.html"/>
+    </navPoint>
+    <navPoint id="uIudqVRkFk2wFDH35qGd5D7" playOrder="6">
+      <navLabel>
+        <text>Chapter III. From Logotherapy to Ikigai</text>
+      </navLabel>
+      <content src="index_split_034.html"/>
+    </navPoint>
+    <navPoint id="uQ5E3KgiudHtYR6feEf4GuF" playOrder="7">
+      <navLabel>
+        <text>Chapter IV. Find Flow in Everything You Do</text>
+      </navLabel>
+      <content src="index_split_035.html"/>
+    </navPoint>
+    <navPoint id="uUeFX4eC9oiZYDPpKZiYjH7" playOrder="8">
+      <navLabel>
+        <text>Chapter V. Masters of Longevity</text>
+      </navLabel>
+      <content src="index_split_036.html"/>
+    </navPoint>
+    <navPoint id="uOQHgQGBPyX2bLkaaCjszVG" playOrder="9">
+      <navLabel>
+        <text>Chapter VI. Lessons from Japan’s Centenarians</text>
+      </navLabel>
+      <content src="index_split_037.html"/>
+    </navPoint>
+    <navPoint id="uypVDBnefD9SKw9oUwD8FbC" playOrder="10">
+      <navLabel>
+        <text>Chapter VII. The Ikigai Diet</text>
+      </navLabel>
+      <content src="index_split_038.html"/>
+    </navPoint>
+    <navPoint id="uyZw8qiR2TrOPTQNwmUX5M9" playOrder="11">
+      <navLabel>
+        <text>Chapter VIII. Gentle Movements, Longer Life</text>
+      </navLabel>
+      <content src="index_split_039.html"/>
+    </navPoint>
+    <navPoint id="u2xjDgydA2prm625p7tNVn2" playOrder="12">
+      <navLabel>
+        <text>Chapter IX. Resilience and Wabi-sabi</text>
+      </navLabel>
+      <content src="index_split_040.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

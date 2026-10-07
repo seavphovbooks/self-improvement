@@ -1,0 +1,98 @@
+body.nohyph { -webkit-hyphens:none; }
+@page { margin-top: 10px; }
+p { font-family: serif; margin-top: 0; margin-bottom: 0; text-align: justify; text-indent: 0.75em; }
+ h1, h2, h3, h4, h5 { text-align: center; text-indent: 0; }
+ .main-title { margin-top: 3em; margin-bottom: 0; font-weight: bold; font-family: serif; font-size: 24pt; text-align: center; text-indent: 0; }
+ .main-title2 { margin-top: 0; margin-left: 30px; font-weight: bold; font-family: serif; font-size: 26pt; text-align: left; text-indent: 0; }
+ .main-title3 { margin-top: 3em; margin-left: 30px; font-weight: bold; font-family: serif; font-size: 24pt; text-align: left; text-indent: 0; }
+ .authn { margin-top: 1.5em; font-weight: bold; font-family: serif; font-size: 20pt; text-align: center; text-indent: 0; }
+ .chaph { margin-top: 1.5em; margin-left: 0; font-family: serif; font-size: 1.3em; font-weight: bold; text-indent: 0; text-align: left; }
+ .chaph1 { font-family: serif; font-size: 1.477em; font-weight: bold; margin-top: 0; margin-left: 30px; text-align: left; text-indent: 0; }
+ .chaph2 { font-family: serif; margin-top: 0; margin-left: 30px; font-size: 1.477em; font-weight: bold; text-indent: 0; text-align: left; }
+ .subhb2 { font-size: 1.477em; font-weight: bold; margin-top: 10px; text-align: left; text-indent: 0; }
+ .subhb3 { font-size: 1.477em; font-weight: bold; margin-top: 15px; text-align: left; text-indent: 0; }
+ .subhbc2 { font-size: 1.477em; font-weight: bold; margin-top: 10px; text-align: center; text-indent: 0; }
+ .subhbc3 { font-size: 1.477em; font-weight: bold; margin-top: 15px; text-align: center; text-indent: 0; }
+ .copyright { margin-top: 0; margin-bottom: 0; font-family: serif; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; }
+ .copyright1 { margin-top: 20px; margin-bottom: 0; font-family: serif; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; }
+ .ded { font-family: serif; margin-top: 2.5em; font-style: normal; font-weight: normal; text-align: center; text-indent: 0; }
+ .smalltoc { font-family: serif; font-size: 0.75em; }
+ .smalltoc2 { font-family: serif; font-size: 0.75em; margin-bottom: 10px; text-indent: 1.5em; }
+ .center { margin-top: 0px; text-align: center; text-indent: 0; }
+ .center1 { margin-top: 5px; text-align: center; text-indent: 0; }
+ .center2 { margin-top: 10px; text-align: center; text-indent: 0; }
+ .center3 { margin-top: 15px; text-align: center; text-indent: 0; }
+ .center4 { margin-top: 20px; text-align: center; text-indent: 0; }
+ .center5 { margin-top: 25px; text-align: center; text-indent: 0; }
+ .center6 { margin-top: 30px; text-align: center; text-indent: 0; } 
+ .indent { margin-top: 0; text-align: justify; text-indent: 0.75em; }
+ .indent1 { margin-top: 5px; text-align: justify; text-indent: 0.75em; }
+ .indent2 { margin-top: 10px; text-align: justify; text-indent: 0.75em; }
+ .indent3 { margin-top: 15px; text-align: justify; text-indent: 0.75em; }
+ .indent4 { margin-top: 20px; text-align: justify; text-indent: 0.75em; }
+ .indent5 { margin-top: 25px; text-align: justify; text-indent: 0.75em; }
+ .noindent { margin-top: 0; text-align: justify; text-indent: 0; }
+ .noindent1 { margin-top: 5px; text-align: justify; text-indent: 0; }
+ .noindent2 { margin-top: 10px; text-align: justify; text-indent: 0; }
+ .noindent3 { margin-top: 15px; text-align: justify; text-indent: 0; }
+ .noindent4 { margin-top: 20px; text-align: justify; text-indent: 0; }
+ .noindent5 { margin-top: 25px; text-align: justify; text-indent: 0; }
+ .noindent6 { margin-top: 30px; text-align: justify; text-indent: 0; }
+ .dindent { margin-top: 0; text-align: left; text-indent: 60px; }
+ .italic { font-style: italic }
+ .right { text-align: right; }
+ .right1 { margin-top: 5px; text-align: right; text-indent: 0; }
+ .right2 { margin-top: 10px; text-align: right; text-indent: 0; }
+ .smallcap { font-size: 0.9em; }
+ .smallcapc { font-size: 0.9em; text-align: center; text-indent: 0; }
+ .smallcapb { font-size: 0.9em; font-weight: bold; }
+ .smallcapb2 { margin-top: 10px; font-size: 0.9em; font-weight: bold; text-indent: 0; }
+ .smallcapb3 { margin-top: 15px; font-size: 0.9em; font-weight: bold; text-indent: 0; }
+ .nodec { text-decoration: none; }
+ .nodec1 { color: black; text-decoration: none; }
+ .caption { font-size: 0.75em; font-weight: normal; text-align: center; text-indent: 0; }
+ .quote { margin-top: 0; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: italic; text-align: justify; text-indent: 0; }
+ .quote1 { margin-top: 5px; margin-left: 30px; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0; }
+ .quote2 { margin-top: 10px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: italic; text-align: justify; text-indent: 0; }
+ .quote3 { margin-top: 10px; margin-left: 30px; margin-right: 1.5em; font-size: 0.85em; font-style: italic; text-align: left; text-indent: 0; }
+ .letter { margin-top: 0; margin-left: 1.5em; margin-right: 1.5em; font-style: italic; text-align: justify; text-indent: 0; }
+ .letter1 { margin-top: 5px; margin-left: 1.5em; margin-right: 1.5em; font-style: italic; text-align: justify; text-indent: 0; }
+ .letter2 { margin-top: 10px; margin-left: 1.5em; margin-right: 1.5em; font-style: italic; text-align: justify; text-indent: 0; }
+ .letter3 { margin-top: 15px; margin-left: 1.5em; margin-right: 1.5em; font-style: italic; text-align: justify; text-indent: 0; }
+ .print { margin-top: 0; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0.65em; }
+ .print1 { margin-top: 5px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0.65em; }
+ .print2 { margin-top: 10px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0.65em; }
+ .print3 { margin-top: 15px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0.65em; }
+ .prints { margin-top: 0; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0; }
+ .prints1 { margin-top: 5px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0; }
+ .prints2 { margin-top: 10px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0; }
+ .prints3 { margin-top: 15px; margin-left: 1.5em; margin-right: 1.5em; font-size: 0.85em; font-style: normal; text-align: justify; text-indent: 0; }
+.pgebreak { page-break-after: always; }
+.boldital { font-weight: bold; font-style: italic; }
+.drop-cap { font-weight: bold; float: left; font-size: 3.5em; line-height: normal; margin-top: -0.18em; margin-right: .07em; margin-bottom: 0.05em; }
+.tab1 { text-align: left; vertical-align: top; }
+.tabl2 { text-align: left; vertical-align: top; border: 0; }
+.tabh1 { text-align: left; vertical-align: top; border-top: 2px solid black; border-bottom: 1px solid black; }
+.tabh1 { text-align: left; vertical-align: top; border: 2px solid black; }
+.tab2 { text-align: left; vertical-align: top; border-bottom: 2px solid black; }
+.tab3  { text-align: left; vertical-align: top; }
+.tab4  { text-align: left; vertical-align: top; background-color: lightgray; }
+.tab5  { text-align: left; vertical-align: top; border-bottom: 0; }
+.tab6  { text-align: left; vertical-align: top; border-top: 0; width: 50%; }
+.tab7  { text-align: left; vertical-align: top; border: 0; width: 10%; }
+.tab8  { text-align: left; vertical-align: bottom; border: 0; }
+.tabl3 { margin-left: 10%; margin-right: 10%; width: 80%; text-align: left; vertical-align: top; }
+.tabl4 { margin-left: 15%; margin-right: 15%; width: 75%; text-align: left; vertical-align: top; border: 2; }
+.tabl5 { margin-left: 20%; margin-right: 20%; width: 60%; text-align: left; vertical-align: top; border: 2px solid black; }
+.tabl7 { border: 2px solid black; border-collapse:collapse; width: 100%; }
+.centerli { margin-left: 25%; }
+ul.none { list-style-type: none; font-size: 0.85em; text-align: justify; }
+li { font-family: serif; }
+.lineb { width: 100%; background-color: black; height: 1px; }
+.linet { width: 95%; }
+.bold { font-weight: bold; }
+.nomargin { margin-top: 3px; margin-bottom: 3px;}
+.big { font-size: 3em; }
+.line4 { width: 100%; margin: 0 0 15px 15px; padding: 5px 0; border-top: 3px double #505050; border-bottom: 3px double #505050; }
+.block1 { margin-top: 5px; margin-left: 0.75em; text-indent: 0; }
+p.center { margin-bottom: 10px; margin-top: 10px; text-align: center; text-indent: 0; }

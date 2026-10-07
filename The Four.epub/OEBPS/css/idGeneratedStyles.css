@@ -1,0 +1,459 @@
+body, div, h1, h2, h3, h4, h5, h6, p {
+	widows: 2;
+	orphans: 2;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	page-break-after: avoid;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+table {
+	width:100%;
+}
+img, div {
+	padding: 0;
+	margin: 0;
+}
+div.h100 {
+	text-align: center;
+	height: 97%;
+	max-width: 100%;
+	clear: both;
+}
+img.h100 {
+	height: 100%;
+	max-width: 100%;
+}
+div.w100 {
+	text-align: center;
+	max-height: 100%;
+	width: 100%;
+	clear: both;
+}
+img.w100 {
+	max-height: 100%;
+	width: 100%;
+}
+img.h1em {
+	height: 1em;
+}
+img.h2em {
+	height: 2em;
+}
+img.h4em {
+	height: 4em;
+}
+div.footnote {
+	margin-top: 15%;
+}
+
+div.Caption {
+    margin: 1.5em 0;
+    page-break-inside: avoid;
+}
+div.w50c {
+	text-align: center;
+	max-height: 100%;
+	margin: 0 25%;
+	clear: both;
+}
+div.w80c {
+	text-align: center;
+	max-height: 100%;
+	margin: 0 10%;
+	clear: both;
+}
+p.x01-FM-Contents-A-Head {
+	font-family:"Aptifer Sans LT Pro Light", "Helvetica", sans-serif;
+	font-size:0.792em;
+	margin: 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-BM-Head {
+	color:#6d6e70;
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.167em;
+	font-weight:bold;
+	margin: 1.36em 0 0 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-BM-Head-First {
+	color:#6d6e70;
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.167em;
+	font-weight:bold;
+	margin: 2.71em 0 0 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-CT {
+	color:gray;
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.167em;
+	font-weight:bold;
+	margin: 1.36em 0 0 0;
+	text-indent:0;
+}
+p.x01-FM-Contents-CT-First {
+	color:#6d6e70;
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.167em;
+	font-weight:bold;
+	margin: 1.36em 0 0 0;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Text {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 0 1.65em;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Copyright-Text-Space {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 0.59em 1.65em 0 1.65em;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Dedi-Body {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	font-style:italic;
+	margin: 0;
+	text-align:center;
+	text-indent:0;
+}
+p.x01-FM-Dedi-Body-1 {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	font-style:italic;
+	margin: 15% 0 0 0;
+	text-align:center;
+	text-indent:0;
+}
+h1.x01-FM-Head {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.75em;
+	font-weight:bold;
+	margin: 15% 0 20% 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x03-CO-Body-Text {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 10% 0 0 0;
+	text-indent:0;
+}
+p.x03-Chapter-Epigraph {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.875em;
+	margin: 0 3.43em 0 0;
+	text-indent:0;
+}
+p.x03-Chapter-Epigraph-Source {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.792em;
+	font-weight:bold;
+	margin: 0.95em 3.79em 2.74em 0;
+	text-align:right;
+	text-indent:0;
+}
+h1.x03-Chapter-Number {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.5em;
+	font-weight:bold;
+	margin: 15% 0 0 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+h1.x03-Chapter-Title {
+	color:#808183;
+	font-family:"Aptifer Sans LT Pro Medium", "Helvetica", sans-serif;
+	font-size:1.8em;
+	font-weight:bold;
+	margin: 0.32em 0 20% 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x04-Body-Text {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 0;
+	text-indent:1.64em;
+}
+p.x04-Body-Text-FL {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 0;
+	text-indent:0;
+}
+p.x04-Space-Break-Orn {
+	color:#808183;
+	font-family:"Aptifer Sans LT Pro Medium", "Helvetica", sans-serif;
+	font-size:0.917em;
+	font-weight:bold;
+	margin: 1.54em 0;
+	text-align:center;
+	text-indent:0;
+}
+h2.x05-Head-A {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.167em;
+	font-weight:bold;
+	margin: 1.86em 0 0.64em 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+h3.x05-Head-B {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.917em;
+	font-weight:bold;
+	margin: 1.54em 0 0 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x06-Epigraph {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.875em;
+	margin: 0 1.71em;
+	text-indent:0;
+}
+p.x06-Extract-1P {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 1.58em 1.67em;
+	text-indent:1.3em;
+}
+li.x07-List-Bulleted {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0 0 0 2.42em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 1.58em 0 0 2.42em;
+	text-indent:0;
+}
+li.x07-List-Bulleted-Last {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0 0 1.58em 2.42em;
+	text-indent:0;
+}
+li.x07-List-Numbered {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 0 0 2.7em;
+	text-indent:0;
+}
+li.x07-List-Numbered-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 1.58em 0 0 2.7em;
+	text-indent:0;
+}
+li.x07-List-Numbered-Last {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	list-style-type:decimal;
+	margin: 0 0 1.58em 2.7em;
+	text-indent:0;
+}
+p.x07-List-Unnumbered {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0 0 0 1.67em;
+	text-indent:0;
+}
+p.x07-List-Unnumbered-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 1.58em 0 0 1.67em;
+	text-indent:0;
+}
+p.x07-List-Unnumbered-Para {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0.84em 0 0 1.67em;
+	text-indent:0;
+}
+p.x07-List-Unnumbered-Para-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 1.58em 0 0 1.67em;
+	text-indent:0;
+}
+p.x07-List-Unnumbered-Para-Last {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0.84em 0 1.58em 1.67em;
+	text-indent:0;
+}
+p.x12-Caption- {
+	font-family:"Aptifer Sans LT Pro Light", "Helvetica", sans-serif;
+	font-size:0.5em;
+	margin: 0 0 0 1.17em;
+	text-indent:-1.17em;
+}
+p.x12-Caption-Credit {
+	font-family:"Aptifer Sans LT Pro Light", "Helvetica", sans-serif;
+	font-size:0.5em;
+    text-align: left;
+	margin: 0 0 0 1.17em;
+	text-indent:-1.17em;
+}
+p.x13-BM-Ack {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 0;
+	text-indent:1.64em;
+}
+p.x13-BM-Ack-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 0;
+	text-indent:0;
+}
+h1.x13-BM-Ack-Head {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.75em;
+	font-weight:bold;
+	margin: 15% 0 20% 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x13-BM-Endnotes {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.75em;
+	margin: 0 0 0 1.78em;
+	text-indent:-1.78em;
+}
+p.x13-BM-Endnotes-Head-A {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.833em;
+	font-weight:bold;
+	margin: 1.3em 0 0 0;
+	text-indent:0;
+}
+/*May want to look at the style below*/
+
+p.x13-BM-Endnotes-Head-A-First {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.833em;
+	font-weight:bold;
+	margin: 17.31em 0 0 0;
+	text-indent:0;
+}
+h1.x13-BM-Head {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:1.75em;
+	font-weight:bold;
+	margin: 15% 0 20% 0;
+	page-break-after:avoid;
+	text-indent:0;
+}
+p.x13-BM-Index-1 {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 0 0 0 2em;
+	text-indent:-2em;
+}
+p.x13-BM-Index-2 {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 0 0 0 2em;
+	text-indent:-0.94em;
+}
+p.x13-BM-Index-Alpha-Space {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 1.41em 0 0 2em;
+	text-indent:-2em;
+}
+p.x13-BM-Index-Note {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.708em;
+	margin: 1em 0 0 0;
+	text-indent:0;
+}
+p.x13-BM-Permissions {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.75em;
+	margin: 0 0 0 1em;
+	text-indent:-1em;
+}
+p.x14-Free-Style-1 {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.75em;
+	font-weight:bold;
+	margin: 0.78em 0 0 0;
+	text-indent:0;
+}
+p.x14-Free-Style-2 {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.75em;
+	font-weight:bold;
+	margin: 0.78em 0 0 0;
+	text-indent:0;
+}
+p.x14-Free-Style-4-First {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 1.95em 0 0 1.67em;
+	text-indent:0;
+}
+p.x14-Free-Style-4-Last {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.896em;
+	margin: 0.84em 0 1.95em 1.67em;
+	text-indent:0;
+}
+p.xNormal {
+	font-family:"Warnock Pro Light", "Georgia", serif;
+	font-size:0.917em;
+	margin: 0;
+	text-indent:1.64em;
+}
+span._1-FM-Contents-CN {
+	font-family:"Aptifer Sans LT Pro Medium", "Helvetica", sans-serif;
+	font-size:0.917em;
+	font-weight:bold;
+}
+span._3-CO-Body-Text-Line {
+	font-family:"Aptifer Sans LT Pro Medium", "Helvetica", sans-serif;
+	font-size:0.8em;
+	font-weight:bold;
+}
+span._5-Head-Run-In-1 {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-weight:bold;
+}
+span._4-Free-Style-4 {
+	font-family:"Aptifer Sans LT Pro", "Helvetica", sans-serif;
+	font-size:0.833em;
+	font-weight:bold;
+}
+sup.endnote {
+	vertical-align:super;
+	line-height: 0;
+	font-size: 75%;
+}
+span.gray {
+   color: gray;
+}
+ul,ol {
+	margin: 0;
+	padding: 0;
+}

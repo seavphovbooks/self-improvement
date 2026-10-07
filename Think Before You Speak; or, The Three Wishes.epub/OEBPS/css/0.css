@@ -1,0 +1,199 @@
+@charset "utf-8";
+/**/
+/* slight differences for print and screen */
+@media print {
+ span.pgmark {
+ border: 0 !important;
+ display: none;
+ visibility: hidden
+ }
+ hr.pg {
+ display: none;
+ visibility: hidden
+ }
+ p {
+ margin-bottom: 0;
+ text-indent: 2em
+ }
+ }
+@media screen {
+ span.pgmark {
+ border-top: thin solid silver;
+ border-bottom: thin solid silver;
+ display: inline
+ }
+ p {
+ margin-bottom: 0.75em;
+ text-indent: 0
+ }
+ }
+body {
+ margin-left: 10%;
+ margin-right: 10%;
+ font-size: large;
+ text-align: left
+ }
+div.main {
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 30em;
+ page-break-after: always
+ }
+h1, h2 {
+ text-align: center;
+ text-indent: 0;
+ font-weight: normal;
+ }
+h1 small {
+ font-size: 50%;
+ word-spacing: 0.5em
+ }
+h1 big {
+ letter-spacing: 0.4em;
+ }
+h2 {
+ clear: left
+ }
+h1 {
+ line-height: 1.8em;
+ }
+p {
+ text-align: justify;
+ margin-top: 0.25em;
+ }
+p.printer {
+ text-align: center;
+ font-size: 75%;
+ border-top: 1px solid black
+ }
+p.finito {
+ padding: 4em 0;
+ letter-spacing: 0.2em;
+ text-indent: 0 !important;
+ text-align: center;
+ font-size: 80%;
+ }
+p.godwin {
+ text-indent: 0 !important;
+ text-align: center;
+ line-height: 1.6em;
+ }
+p.year {
+ text-indent: 0 !important;
+ text-align: center;
+ page-break-after: always;
+ margin-top: 0.2em;
+ font-size: 130%
+ }
+p.year span {
+ padding: 5px 0.7em 0 0.75em;
+ border-top: thin solid black
+ }
+p.illus {
+ text-align: center;
+ letter-spacing: 0.2em;
+ }
+p.illus img {
+ margin: 1em -20%;
+ border: 2px solid black
+ }
+div.poem {
+ text-align: left;
+ margin-top: 0.25em;
+ margin-bottom: 1em;
+ margin-left: 10%;
+ margin-right: 10%;
+ }
+div.poem .stanza {
+ margin-top: 0.75em;
+ /* vertical break between stanzas */
+ }
+.stanza div {
+ /* default line */
+ line-height: 1.5;
+ margin-top: 0;
+ margin-left: 1em;
+ text-indent: -3em
+ }
+hr {
+ padding: 0;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ clear: left
+ }
+hr.dbl {
+ border-width: 10px 0 0 0;
+ border-style: double;
+ width: 10em;
+ margin: 0 auto 25px auto
+ }
+hr.pg {
+ width: 100%
+ }
+span.pgmark {
+ font-size: x-small;
+ font-variant: normal;
+ font-style: normal;
+ font-weight: normal;
+ line-height: 1.2;
+ text-indent: 0;
+ text-align: left;
+ margin: 0;
+ padding: 0.05em 0.5em !important
+ }
+/* for trivial notes */
+ins.TNsilent {
+ text-decoration: none;
+ border-bottom: 0
+ }
+.ns {
+ display: none;
+ visibility: hidden
+ }
+.smc {
+ font-variant: small-caps;
+ }
+.allsc {
+ font-variant: small-caps;
+ text-transform: lowercase
+ }
+.pgbrk {
+ page-break-after: always
+ }
+.bigcap {
+ font-size: 140%
+ }
+.noindent {
+ text-indent: 0 !important
+ }
+.fourem {
+ margin-top: 4em;
+ }
+.oneem {
+ margin-top: 0.5em;
+ }
+.larger {
+ font-size: 120%;
+ }
+.oneembelow {
+ padding-bottom: 1.5em
+ }
+.clxx {
+ font-size: 170%
+ }
+.ctr {
+ text-indent: 0;
+ text-align: center;
+ }
+/**/
+.indent 
+{
+text-align: justify;
+margin-bottom: 0em;
+margin-top: 0em;
+text-indent: 1em;
+}
+.cap {
+ text-align: center;
+ }

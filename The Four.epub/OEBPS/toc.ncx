@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="9780735213661"/>
+		<meta name="dtb:depth" content="7" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle><text>The Four</text></docTitle>
+	<navMap>
+		<navPoint id="navPoint1" playOrder="1">
+			<navLabel>
+				<text>Cover</text>
+			</navLabel>
+			<content src="xhtml/01_Cover.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint2" playOrder="2">
+			<navLabel>
+				<text>Title Page</text>
+			</navLabel>
+			<content src="xhtml/02_Title_Page.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint3" playOrder="3">
+			<navLabel>
+				<text>Copyright</text>
+			</navLabel>
+			<content src="xhtml/03_Copyright.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint4" playOrder="4">
+			<navLabel>
+				<text>Dedication</text>
+			</navLabel>
+			<content src="xhtml/04_Dedication.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint5" playOrder="5">
+			<navLabel>
+				<text>Contents</text>
+			</navLabel>
+			<content src="xhtml/05_Contents.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint6" playOrder="6">
+			<navLabel>
+				<text>Chapter 1: The Four</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml" />
+		<navPoint id="navPoint7" playOrder="7">
+			<navLabel>
+				<text>The Four Horsemen</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-7" />
+		</navPoint>
+		<navPoint id="navPoint8" playOrder="8">
+			<navLabel>
+				<text>State of Affairs</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-8" />
+		</navPoint>
+		<navPoint id="navPoint9" playOrder="9">
+			<navLabel>
+				<text>Show Me the Trillions</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-9" />
+		</navPoint>
+		<navPoint id="navPoint10" playOrder="10">
+			<navLabel>
+				<text>Safety in Hatred</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-10" />
+		</navPoint>
+		<navPoint id="navPoint11" playOrder="11">
+			<navLabel>
+				<text>So What?</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-11" />
+		</navPoint>
+		<navPoint id="navPoint12" playOrder="12">
+			<navLabel>
+				<text>Alexa, Who Is Scott Galloway?</text>
+			</navLabel>
+			<content src="xhtml/06_Chapter_1_The_Four.xhtml#_idParaDest-12" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint13" playOrder="13">
+			<navLabel>
+				<text>Chapter 2: Amazon</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml" />
+		<navPoint id="navPoint14" playOrder="14">
+			<navLabel>
+				<text>Hunters and Gatherers</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-15" />
+		</navPoint>
+		<navPoint id="navPoint15" playOrder="15">
+			<navLabel>
+				<text>Our Consuming Capitalist Selves</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-16" />
+		</navPoint>
+		<navPoint id="navPoint16" playOrder="16">
+			<navLabel>
+				<text>The Soon‑to‑Be Wealthiest Man on the Planet</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-17" />
+		</navPoint>
+		<navPoint id="navPoint17" playOrder="17">
+			<navLabel>
+				<text>Zero Sum</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-18" />
+		</navPoint>
+		<navPoint id="navPoint18" playOrder="18">
+			<navLabel>
+				<text>Storytelling → Cheap Capital</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-19" />
+		</navPoint>
+		<navPoint id="navPoint19" playOrder="19">
+			<navLabel>
+				<text>Cheap Capital → 100x Risks</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-20" />
+		</navPoint>
+		<navPoint id="navPoint20" playOrder="20">
+			<navLabel>
+				<text>Red, White, and Blue</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-21" />
+		</navPoint>
+		<navPoint id="navPoint21" playOrder="21">
+			<navLabel>
+				<text>Sell the Picks</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-22" />
+		</navPoint>
+		<navPoint id="navPoint22" playOrder="22">
+			<navLabel>
+				<text>Stores</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-23" />
+		</navPoint>
+		<navPoint id="navPoint23" playOrder="23">
+			<navLabel>
+				<text>“Alexa, How Can We Kill Brands?”</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-24" />
+		</navPoint>
+		<navPoint id="navPoint24" playOrder="24">
+			<navLabel>
+				<text>Amazon the Destroyer</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-25" />
+		</navPoint>
+		<navPoint id="navPoint25" playOrder="25">
+			<navLabel>
+				<text>World Domination</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-26" />
+		</navPoint>
+		<navPoint id="navPoint26" playOrder="26">
+			<navLabel>
+				<text>Race to a Trillion</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-27" />
+		</navPoint>
+		<navPoint id="navPoint27" playOrder="27">
+			<navLabel>
+				<text>Some Big-Ass Losers Here</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-28" />
+		</navPoint>
+		<navPoint id="navPoint28" playOrder="28">
+			<navLabel>
+				<text>Other Losers: The Unremarkable</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-29" />
+		</navPoint>
+		<navPoint id="navPoint29" playOrder="29">
+			<navLabel>
+				<text>So . . . Is Every Retailer (and Its Employees) Screwed?</text>
+			</navLabel>
+			<content src="xhtml/07_Chapter_2_Amazon.xhtml#_idParaDest-30" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint30" playOrder="30">
+			<navLabel>
+				<text>Chapter 3: Apple</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml" />
+		<navPoint id="navPoint31" playOrder="31">
+			<navLabel>
+				<text>Double Standard</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-33" />
+		</navPoint>
+		<navPoint id="navPoint32" playOrder="32">
+			<navLabel>
+				<text>The Sacred and the Profane</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-34" />
+		</navPoint>
+		<navPoint id="navPoint33" playOrder="33">
+			<navLabel>
+				<text>Closer to God</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-35" />
+		</navPoint>
+		<navPoint id="navPoint34" playOrder="34">
+			<navLabel>
+				<text>The Luxury of Time</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-36" />
+		</navPoint>
+		<navPoint id="navPoint35" playOrder="35">
+			<navLabel>
+				<text>Scarcity</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-37" />
+		</navPoint>
+		<navPoint id="navPoint36" playOrder="36">
+			<navLabel>
+				<text>Tech’s Good-Looking Corpse</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-38" />
+		</navPoint>
+		<navPoint id="navPoint37" playOrder="37">
+			<navLabel>
+				<text>Vision(less)</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-39" />
+		</navPoint>
+		<navPoint id="navPoint38" playOrder="38">
+			<navLabel>
+				<text>The Builder King</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-40" />
+		</navPoint>
+		<navPoint id="navPoint39" playOrder="39">
+			<navLabel>
+				<text>Chutes, Ladders, and Moats</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-41" />
+		</navPoint>
+		<navPoint id="navPoint40" playOrder="40">
+			<navLabel>
+				<text>What Might Be Next</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-42" />
+		</navPoint>
+		<navPoint id="navPoint41" playOrder="41">
+			<navLabel>
+				<text>Denting the Universe</text>
+			</navLabel>
+			<content src="xhtml/08_Chapter_3_Apple.xhtml#_idParaDest-43" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint42" playOrder="42">
+			<navLabel>
+				<text>Chapter 4: Facebook</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml" />
+		<navPoint id="navPoint43" playOrder="43">
+			<navLabel>
+				<text>Covet</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-46" />
+		</navPoint>
+		<navPoint id="navPoint44" playOrder="44">
+			<navLabel>
+				<text>Connecting and Loving</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-47" />
+		</navPoint>
+		<navPoint id="navPoint45" playOrder="45">
+			<navLabel>
+				<text>Watching and Listening</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-48" />
+		</navPoint>
+		<navPoint id="navPoint46" playOrder="46">
+			<navLabel>
+				<text>The Benjamin Button Economy</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-49" />
+		</navPoint>
+		<navPoint id="navPoint47" playOrder="47">
+			<navLabel>
+				<text>Brains, Brawn, and Blood</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-50" />
+		</navPoint>
+		<navPoint id="navPoint48" playOrder="48">
+			<navLabel>
+				<text>Duopoly</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-51" />
+		</navPoint>
+		<navPoint id="navPoint49" playOrder="49">
+			<navLabel>
+				<text>Head Fake</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-52" />
+		</navPoint>
+		<navPoint id="navPoint50" playOrder="50">
+			<navLabel>
+				<text>Insatiable</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-53" />
+		</navPoint>
+		<navPoint id="navPoint51" playOrder="51">
+			<navLabel>
+				<text>Oil</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-54" />
+		</navPoint>
+		<navPoint id="navPoint52" playOrder="52">
+			<navLabel>
+				<text>Clicks vs. Responsibility</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-55" />
+		</navPoint>
+		<navPoint id="navPoint53" playOrder="53">
+			<navLabel>
+				<text>Platform</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-56" />
+		</navPoint>
+		<navPoint id="navPoint54" playOrder="54">
+			<navLabel>
+				<text>Utopia/Dystopia</text>
+			</navLabel>
+			<content src="xhtml/09_Chapter_4_Facebook.xhtml#_idParaDest-57" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint55" playOrder="55">
+			<navLabel>
+				<text>Chapter 5: Google</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml" />
+		<navPoint id="navPoint56" playOrder="56">
+			<navLabel>
+				<text>Good to Know</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-60" />
+		</navPoint>
+		<navPoint id="navPoint57" playOrder="57">
+			<navLabel>
+				<text>Prayer</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-61" />
+		</navPoint>
+		<navPoint id="navPoint58" playOrder="58">
+			<navLabel>
+				<text>Trust</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-62" />
+		</navPoint>
+		<navPoint id="navPoint59" playOrder="59">
+			<navLabel>
+				<text>Minority Report</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-63" />
+		</navPoint>
+		<navPoint id="navPoint60" playOrder="60">
+			<navLabel>
+				<text>The Old God</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-64" />
+		</navPoint>
+		<navPoint id="navPoint61" playOrder="61">
+			<navLabel>
+				<text>NY(low)T</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-65" />
+		</navPoint>
+		<navPoint id="navPoint62" playOrder="62">
+			<navLabel>
+				<text>About.com</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-66" />
+		</navPoint>
+		<navPoint id="navPoint63" playOrder="63">
+			<navLabel>
+				<text>Enter the New God</text>
+			</navLabel>
+			<content src="xhtml/10_Chapter_5_Google.xhtml#_idParaDest-67" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint64" playOrder="64">
+			<navLabel>
+				<text>Chapter 6: Lie to Me</text>
+			</navLabel>
+			<content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml" />
+		<navPoint id="navPoint65" playOrder="65">
+			<navLabel>
+				<text>Con #1: Steal and Protect</text>
+			</navLabel>
+			<content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#_idParaDest-70" />
+		</navPoint>
+		<navPoint id="navPoint66" playOrder="66">
+			<navLabel>
+				<text>Con #2: Not Stealing, Just Borrowing</text>
+			</navLabel>
+			<content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#_idParaDest-71" />
+		</navPoint>
+		<navPoint id="navPoint67" playOrder="67">
+			<navLabel>
+				<text>Information’s Price Tag</text>
+			</navLabel>
+			<content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#_idParaDest-72" />
+		</navPoint>
+		<navPoint id="navPoint68" playOrder="68">
+			<navLabel>
+				<text>The Key to a Great Con</text>
+			</navLabel>
+			<content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#_idParaDest-73" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint69" playOrder="69">
+			<navLabel>
+				<text>Chapter 7: Business and the Body</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml" />
+		<navPoint id="navPoint70" playOrder="70">
+			<navLabel>
+				<text>Gray Matter</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml#_idParaDest-76" />
+		</navPoint>
+		<navPoint id="navPoint71" playOrder="71">
+			<navLabel>
+				<text>Bighearted</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml#_idParaDest-77" />
+		</navPoint>
+		<navPoint id="navPoint72" playOrder="72">
+			<navLabel>
+				<text>Erogenously Yours</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml#_idParaDest-78" />
+		</navPoint>
+		<navPoint id="navPoint73" playOrder="73">
+			<navLabel>
+				<text>The Horsemen and the Body Framework</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml#_idParaDest-79" />
+		</navPoint>
+		<navPoint id="navPoint74" playOrder="74">
+			<navLabel>
+				<text>Business Growth and Biology</text>
+			</navLabel>
+			<content src="xhtml/12_Chapter_7_Business_an.xhtml#_idParaDest-80" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint75" playOrder="75">
+			<navLabel>
+				<text>Chapter 8: The T Algorithm</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml" />
+		<navPoint id="navPoint76" playOrder="76">
+			<navLabel>
+				<text>1. Product Differentiation</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-83" />
+		</navPoint>
+		<navPoint id="navPoint77" playOrder="77">
+			<navLabel>
+				<text>2. Visionary Capital</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-84" />
+		</navPoint>
+		<navPoint id="navPoint78" playOrder="78">
+			<navLabel>
+				<text>3. Global Reach</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-85" />
+		</navPoint>
+		<navPoint id="navPoint79" playOrder="79">
+			<navLabel>
+				<text>4. Likability</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-86" />
+		</navPoint>
+		<navPoint id="navPoint80" playOrder="80">
+			<navLabel>
+				<text>5. Vertical Integration</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-87" />
+		</navPoint>
+		<navPoint id="navPoint81" playOrder="81">
+			<navLabel>
+				<text>6. AI</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-88" />
+		</navPoint>
+		<navPoint id="navPoint82" playOrder="82">
+			<navLabel>
+				<text>7. Accelerant</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-89" />
+		</navPoint>
+		<navPoint id="navPoint83" playOrder="83">
+			<navLabel>
+				<text>8. Geography</text>
+			</navLabel>
+			<content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#_idParaDest-90" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint84" playOrder="84">
+			<navLabel>
+				<text>Chapter 9: The Fifth Horseman?</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml" />
+		<navPoint id="navPoint85" playOrder="85">
+			<navLabel>
+				<text>Alibaba</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-93" />
+		</navPoint>
+		<navPoint id="navPoint86" playOrder="86">
+			<navLabel>
+				<text>Tesla</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-94" />
+		</navPoint>
+		<navPoint id="navPoint87" playOrder="87">
+			<navLabel>
+				<text>Uber</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-95" />
+		</navPoint>
+		<navPoint id="navPoint88" playOrder="88">
+			<navLabel>
+				<text>Walmart</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-96" />
+		</navPoint>
+		<navPoint id="navPoint89" playOrder="89">
+			<navLabel>
+				<text>Microsoft</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-97" />
+		</navPoint>
+		<navPoint id="navPoint90" playOrder="90">
+			<navLabel>
+				<text>Airbnb</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-98" />
+		</navPoint>
+		<navPoint id="navPoint91" playOrder="91">
+			<navLabel>
+				<text>IBM</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-99" />
+		</navPoint>
+		<navPoint id="navPoint92" playOrder="92">
+			<navLabel>
+				<text>Verizon/AT&amp;T/Comcast/Time Warner</text>
+			</navLabel>
+			<content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#_idParaDest-100" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint93" playOrder="93">
+			<navLabel>
+				<text>Chapter 10: The Four and You</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml" />
+		<navPoint id="navPoint94" playOrder="94">
+			<navLabel>
+				<text>Success and the Insecurity Economy</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-103" />
+		</navPoint>
+		<navPoint id="navPoint95" playOrder="95">
+			<navLabel>
+				<text>Personal Success Factors</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-104" />
+		</navPoint>
+		<navPoint id="navPoint96" playOrder="96">
+			<navLabel>
+				<text>Go to College</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-105" />
+		</navPoint>
+		<navPoint id="navPoint97" playOrder="97">
+			<navLabel>
+				<text>Certification</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-106" />
+		</navPoint>
+		<navPoint id="navPoint98" playOrder="98">
+			<navLabel>
+				<text>The Accomplishment Habit</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-107" />
+		</navPoint>
+		<navPoint id="navPoint99" playOrder="99">
+			<navLabel>
+				<text>Get to a City</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-108" />
+		</navPoint>
+		<navPoint id="navPoint100" playOrder="100">
+			<navLabel>
+				<text>Pimp Your Career</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-109" />
+		</navPoint>
+		<navPoint id="navPoint101" playOrder="101">
+			<navLabel>
+				<text>Boom(er)</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-110" />
+		</navPoint>
+		<navPoint id="navPoint102" playOrder="102">
+			<navLabel>
+				<text>Equity and the Plan</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-111" />
+		</navPoint>
+		<navPoint id="navPoint103" playOrder="103">
+			<navLabel>
+				<text>Serial Monogamy</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-112" />
+		</navPoint>
+		<navPoint id="navPoint104" playOrder="104">
+			<navLabel>
+				<text>Stay Loyal to People, Not Organizations</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-113" />
+		</navPoint>
+		<navPoint id="navPoint105" playOrder="105">
+			<navLabel>
+				<text>Manage Your Career</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-114" />
+		</navPoint>
+		<navPoint id="navPoint106" playOrder="106">
+			<navLabel>
+				<text>Seeking Justice</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-115" />
+		</navPoint>
+		<navPoint id="navPoint107" playOrder="107">
+			<navLabel>
+				<text>Regression to the Mean</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-116" />
+		</navPoint>
+		<navPoint id="navPoint108" playOrder="108">
+			<navLabel>
+				<text>Go Where Your Skill Is Valued</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-117" />
+		</navPoint>
+		<navPoint id="navPoint109" playOrder="109">
+			<navLabel>
+				<text>Sexy Job vs. ROI</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-118" />
+		</navPoint>
+		<navPoint id="navPoint110" playOrder="110">
+			<navLabel>
+				<text>Strength</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-119" />
+		</navPoint>
+		<navPoint id="navPoint111" playOrder="111">
+			<navLabel>
+				<text>Ask for and Give Help</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-120" />
+		</navPoint>
+		<navPoint id="navPoint112" playOrder="112">
+			<navLabel>
+				<text>What Part of the Alphabet Are You?</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-121" />
+		</navPoint>
+		<navPoint id="navPoint113" playOrder="113">
+			<navLabel>
+				<text>Botox</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-122" />
+		</navPoint>
+		<navPoint id="navPoint114" playOrder="114">
+			<navLabel>
+				<text>Long/Short Tail</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-123" />
+		</navPoint>
+		<navPoint id="navPoint115" playOrder="115">
+			<navLabel>
+				<text>The Myth of Balance</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-124" />
+		</navPoint>
+		<navPoint id="navPoint116" playOrder="116">
+			<navLabel>
+				<text>Are You an Entrepreneur?</text>
+			</navLabel>
+			<content src="xhtml/15_Chapter_10_The_Four_a.xhtml#_idParaDest-125" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint117" playOrder="117">
+			<navLabel>
+				<text>Chapter 11: After the Horsemen</text>
+			</navLabel>
+			<content src="xhtml/16_Chapter_11_After_the_.xhtml" />
+		<navPoint id="navPoint118" playOrder="118">
+			<navLabel>
+				<text>Purpose</text>
+			</navLabel>
+			<content src="xhtml/16_Chapter_11_After_the_.xhtml#_idParaDest-128" />
+		</navPoint>
+		</navPoint>
+		<navPoint id="navPoint119" playOrder="119">
+			<navLabel>
+				<text>Acknowledgments</text>
+			</navLabel>
+			<content src="xhtml/17_Acknowledgments.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint120" playOrder="120">
+			<navLabel>
+				<text>Illustration Credits</text>
+			</navLabel>
+			<content src="xhtml/18_Illustration_Credits.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint121" playOrder="121">
+			<navLabel>
+				<text>Notes</text>
+			</navLabel>
+			<content src="xhtml/19_Notes.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint122" playOrder="122">
+			<navLabel>
+				<text>Index</text>
+			</navLabel>
+			<content src="xhtml/20_Index.xhtml" />
+		</navPoint></navMap>
+<pageList>
+		<navLabel><text>Page mapping for The Four</text></navLabel>
+		<pageTarget type="normal" value="iii" id="navPoint123" playOrder="123"><navLabel><text>iii</text></navLabel><content src="xhtml/02_Title_Page.xhtml#pageMap_iii"/></pageTarget>
+		<pageTarget type="normal" value="iv" id="navPoint124" playOrder="124"><navLabel><text>iv</text></navLabel><content src="xhtml/03_Copyright.xhtml#pageMap_iv"/></pageTarget>
+		<pageTarget type="normal" value="v" id="navPoint125" playOrder="125"><navLabel><text>v</text></navLabel><content src="xhtml/04_Dedication.xhtml#pageMap_v"/></pageTarget>
+		<pageTarget type="normal" value="vi" id="navPoint126" playOrder="126"><navLabel><text>vi</text></navLabel><content src="xhtml/04_Dedication.xhtml#pageMap_vi"/></pageTarget>
+		<pageTarget type="normal" value="vii" id="navPoint127" playOrder="127"><navLabel><text>vii</text></navLabel><content src="xhtml/05_Contents.xhtml#pageMap_vii"/></pageTarget>
+		<pageTarget type="normal" value="viii" id="navPoint128" playOrder="128"><navLabel><text>viii</text></navLabel><content src="xhtml/05_Contents.xhtml#pageMap_viii"/></pageTarget>
+		<pageTarget type="normal" value="ix" id="navPoint129" playOrder="129"><navLabel><text>ix</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_ix"/></pageTarget>
+		<pageTarget type="normal" value="x" id="navPoint130" playOrder="130"><navLabel><text>x</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_x"/></pageTarget>
+		<pageTarget type="normal" value="1" id="navPoint131" playOrder="131"><navLabel><text>1</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_1"/></pageTarget>
+		<pageTarget type="normal" value="2" id="navPoint132" playOrder="132"><navLabel><text>2</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_2"/></pageTarget>
+		<pageTarget type="normal" value="3" id="navPoint133" playOrder="133"><navLabel><text>3</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_3"/></pageTarget>
+		<pageTarget type="normal" value="4" id="navPoint134" playOrder="134"><navLabel><text>4</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_4"/></pageTarget>
+		<pageTarget type="normal" value="5" id="navPoint135" playOrder="135"><navLabel><text>5</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_5"/></pageTarget>
+		<pageTarget type="normal" value="6" id="navPoint136" playOrder="136"><navLabel><text>6</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_6"/></pageTarget>
+		<pageTarget type="normal" value="7" id="navPoint137" playOrder="137"><navLabel><text>7</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_7"/></pageTarget>
+		<pageTarget type="normal" value="8" id="navPoint138" playOrder="138"><navLabel><text>8</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_8"/></pageTarget>
+		<pageTarget type="normal" value="9" id="navPoint139" playOrder="139"><navLabel><text>9</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_9"/></pageTarget>
+		<pageTarget type="normal" value="10" id="navPoint140" playOrder="140"><navLabel><text>10</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_10"/></pageTarget>
+		<pageTarget type="normal" value="11" id="navPoint141" playOrder="141"><navLabel><text>11</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_11"/></pageTarget>
+		<pageTarget type="normal" value="12" id="navPoint142" playOrder="142"><navLabel><text>12</text></navLabel><content src="xhtml/06_Chapter_1_The_Four.xhtml#pageMap_12"/></pageTarget>
+		<pageTarget type="normal" value="13" id="navPoint143" playOrder="143"><navLabel><text>13</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_13"/></pageTarget>
+		<pageTarget type="normal" value="14" id="navPoint144" playOrder="144"><navLabel><text>14</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_14"/></pageTarget>
+		<pageTarget type="normal" value="15" id="navPoint145" playOrder="145"><navLabel><text>15</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_15"/></pageTarget>
+		<pageTarget type="normal" value="16" id="navPoint146" playOrder="146"><navLabel><text>16</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_16"/></pageTarget>
+		<pageTarget type="normal" value="17" id="navPoint147" playOrder="147"><navLabel><text>17</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_17"/></pageTarget>
+		<pageTarget type="normal" value="18" id="navPoint148" playOrder="148"><navLabel><text>18</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_18"/></pageTarget>
+		<pageTarget type="normal" value="19" id="navPoint149" playOrder="149"><navLabel><text>19</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_19"/></pageTarget>
+		<pageTarget type="normal" value="20" id="navPoint150" playOrder="150"><navLabel><text>20</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_20"/></pageTarget>
+		<pageTarget type="normal" value="21" id="navPoint151" playOrder="151"><navLabel><text>21</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_21"/></pageTarget>
+		<pageTarget type="normal" value="22" id="navPoint152" playOrder="152"><navLabel><text>22</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_22"/></pageTarget>
+		<pageTarget type="normal" value="23" id="navPoint153" playOrder="153"><navLabel><text>23</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_23"/></pageTarget>
+		<pageTarget type="normal" value="24" id="navPoint154" playOrder="154"><navLabel><text>24</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_24"/></pageTarget>
+		<pageTarget type="normal" value="25" id="navPoint155" playOrder="155"><navLabel><text>25</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_25"/></pageTarget>
+		<pageTarget type="normal" value="26" id="navPoint156" playOrder="156"><navLabel><text>26</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_26"/></pageTarget>
+		<pageTarget type="normal" value="27" id="navPoint157" playOrder="157"><navLabel><text>27</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_27"/></pageTarget>
+		<pageTarget type="normal" value="28" id="navPoint158" playOrder="158"><navLabel><text>28</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_28"/></pageTarget>
+		<pageTarget type="normal" value="29" id="navPoint159" playOrder="159"><navLabel><text>29</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_29"/></pageTarget>
+		<pageTarget type="normal" value="30" id="navPoint160" playOrder="160"><navLabel><text>30</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_30"/></pageTarget>
+		<pageTarget type="normal" value="31" id="navPoint161" playOrder="161"><navLabel><text>31</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_31"/></pageTarget>
+		<pageTarget type="normal" value="32" id="navPoint162" playOrder="162"><navLabel><text>32</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_32"/></pageTarget>
+		<pageTarget type="normal" value="33" id="navPoint163" playOrder="163"><navLabel><text>33</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_33"/></pageTarget>
+		<pageTarget type="normal" value="34" id="navPoint164" playOrder="164"><navLabel><text>34</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_34"/></pageTarget>
+		<pageTarget type="normal" value="35" id="navPoint165" playOrder="165"><navLabel><text>35</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_35"/></pageTarget>
+		<pageTarget type="normal" value="36" id="navPoint166" playOrder="166"><navLabel><text>36</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_36"/></pageTarget>
+		<pageTarget type="normal" value="37" id="navPoint167" playOrder="167"><navLabel><text>37</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_37"/></pageTarget>
+		<pageTarget type="normal" value="38" id="navPoint168" playOrder="168"><navLabel><text>38</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_38"/></pageTarget>
+		<pageTarget type="normal" value="39" id="navPoint169" playOrder="169"><navLabel><text>39</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_39"/></pageTarget>
+		<pageTarget type="normal" value="40" id="navPoint170" playOrder="170"><navLabel><text>40</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_40"/></pageTarget>
+		<pageTarget type="normal" value="41" id="navPoint171" playOrder="171"><navLabel><text>41</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_41"/></pageTarget>
+		<pageTarget type="normal" value="42" id="navPoint172" playOrder="172"><navLabel><text>42</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_42"/></pageTarget>
+		<pageTarget type="normal" value="43" id="navPoint173" playOrder="173"><navLabel><text>43</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_43"/></pageTarget>
+		<pageTarget type="normal" value="44" id="navPoint174" playOrder="174"><navLabel><text>44</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_44"/></pageTarget>
+		<pageTarget type="normal" value="45" id="navPoint175" playOrder="175"><navLabel><text>45</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_45"/></pageTarget>
+		<pageTarget type="normal" value="46" id="navPoint176" playOrder="176"><navLabel><text>46</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_46"/></pageTarget>
+		<pageTarget type="normal" value="47" id="navPoint177" playOrder="177"><navLabel><text>47</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_47"/></pageTarget>
+		<pageTarget type="normal" value="48" id="navPoint178" playOrder="178"><navLabel><text>48</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_48"/></pageTarget>
+		<pageTarget type="normal" value="49" id="navPoint179" playOrder="179"><navLabel><text>49</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_49"/></pageTarget>
+		<pageTarget type="normal" value="50" id="navPoint180" playOrder="180"><navLabel><text>50</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_50"/></pageTarget>
+		<pageTarget type="normal" value="51" id="navPoint181" playOrder="181"><navLabel><text>51</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_51"/></pageTarget>
+		<pageTarget type="normal" value="52" id="navPoint182" playOrder="182"><navLabel><text>52</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_52"/></pageTarget>
+		<pageTarget type="normal" value="53" id="navPoint183" playOrder="183"><navLabel><text>53</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_53"/></pageTarget>
+		<pageTarget type="normal" value="54" id="navPoint184" playOrder="184"><navLabel><text>54</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_54"/></pageTarget>
+		<pageTarget type="normal" value="55" id="navPoint185" playOrder="185"><navLabel><text>55</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_55"/></pageTarget>
+		<pageTarget type="normal" value="56" id="navPoint186" playOrder="186"><navLabel><text>56</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_56"/></pageTarget>
+		<pageTarget type="normal" value="57" id="navPoint187" playOrder="187"><navLabel><text>57</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_57"/></pageTarget>
+		<pageTarget type="normal" value="58" id="navPoint188" playOrder="188"><navLabel><text>58</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_58"/></pageTarget>
+		<pageTarget type="normal" value="59" id="navPoint189" playOrder="189"><navLabel><text>59</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_59"/></pageTarget>
+		<pageTarget type="normal" value="60" id="navPoint190" playOrder="190"><navLabel><text>60</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_60"/></pageTarget>
+		<pageTarget type="normal" value="61" id="navPoint191" playOrder="191"><navLabel><text>61</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_61"/></pageTarget>
+		<pageTarget type="normal" value="62" id="navPoint192" playOrder="192"><navLabel><text>62</text></navLabel><content src="xhtml/07_Chapter_2_Amazon.xhtml#pageMap_62"/></pageTarget>
+		<pageTarget type="normal" value="63" id="navPoint193" playOrder="193"><navLabel><text>63</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_63"/></pageTarget>
+		<pageTarget type="normal" value="64" id="navPoint194" playOrder="194"><navLabel><text>64</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_64"/></pageTarget>
+		<pageTarget type="normal" value="65" id="navPoint195" playOrder="195"><navLabel><text>65</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_65"/></pageTarget>
+		<pageTarget type="normal" value="66" id="navPoint196" playOrder="196"><navLabel><text>66</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_66"/></pageTarget>
+		<pageTarget type="normal" value="67" id="navPoint197" playOrder="197"><navLabel><text>67</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_67"/></pageTarget>
+		<pageTarget type="normal" value="68" id="navPoint198" playOrder="198"><navLabel><text>68</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_68"/></pageTarget>
+		<pageTarget type="normal" value="69" id="navPoint199" playOrder="199"><navLabel><text>69</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_69"/></pageTarget>
+		<pageTarget type="normal" value="70" id="navPoint200" playOrder="200"><navLabel><text>70</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_70"/></pageTarget>
+		<pageTarget type="normal" value="71" id="navPoint201" playOrder="201"><navLabel><text>71</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_71"/></pageTarget>
+		<pageTarget type="normal" value="72" id="navPoint202" playOrder="202"><navLabel><text>72</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_72"/></pageTarget>
+		<pageTarget type="normal" value="73" id="navPoint203" playOrder="203"><navLabel><text>73</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_73"/></pageTarget>
+		<pageTarget type="normal" value="74" id="navPoint204" playOrder="204"><navLabel><text>74</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_74"/></pageTarget>
+		<pageTarget type="normal" value="75" id="navPoint205" playOrder="205"><navLabel><text>75</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_75"/></pageTarget>
+		<pageTarget type="normal" value="76" id="navPoint206" playOrder="206"><navLabel><text>76</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_76"/></pageTarget>
+		<pageTarget type="normal" value="77" id="navPoint207" playOrder="207"><navLabel><text>77</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_77"/></pageTarget>
+		<pageTarget type="normal" value="78" id="navPoint208" playOrder="208"><navLabel><text>78</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_78"/></pageTarget>
+		<pageTarget type="normal" value="79" id="navPoint209" playOrder="209"><navLabel><text>79</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_79"/></pageTarget>
+		<pageTarget type="normal" value="80" id="navPoint210" playOrder="210"><navLabel><text>80</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_80"/></pageTarget>
+		<pageTarget type="normal" value="81" id="navPoint211" playOrder="211"><navLabel><text>81</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_81"/></pageTarget>
+		<pageTarget type="normal" value="82" id="navPoint212" playOrder="212"><navLabel><text>82</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_82"/></pageTarget>
+		<pageTarget type="normal" value="83" id="navPoint213" playOrder="213"><navLabel><text>83</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_83"/></pageTarget>
+		<pageTarget type="normal" value="84" id="navPoint214" playOrder="214"><navLabel><text>84</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_84"/></pageTarget>
+		<pageTarget type="normal" value="85" id="navPoint215" playOrder="215"><navLabel><text>85</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_85"/></pageTarget>
+		<pageTarget type="normal" value="86" id="navPoint216" playOrder="216"><navLabel><text>86</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_86"/></pageTarget>
+		<pageTarget type="normal" value="87" id="navPoint217" playOrder="217"><navLabel><text>87</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_87"/></pageTarget>
+		<pageTarget type="normal" value="88" id="navPoint218" playOrder="218"><navLabel><text>88</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_88"/></pageTarget>
+		<pageTarget type="normal" value="89" id="navPoint219" playOrder="219"><navLabel><text>89</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_89"/></pageTarget>
+		<pageTarget type="normal" value="90" id="navPoint220" playOrder="220"><navLabel><text>90</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_90"/></pageTarget>
+		<pageTarget type="normal" value="91" id="navPoint221" playOrder="221"><navLabel><text>91</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_91"/></pageTarget>
+		<pageTarget type="normal" value="92" id="navPoint222" playOrder="222"><navLabel><text>92</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_92"/></pageTarget>
+		<pageTarget type="normal" value="93" id="navPoint223" playOrder="223"><navLabel><text>93</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_93"/></pageTarget>
+		<pageTarget type="normal" value="94" id="navPoint224" playOrder="224"><navLabel><text>94</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_94"/></pageTarget>
+		<pageTarget type="normal" value="95" id="navPoint225" playOrder="225"><navLabel><text>95</text></navLabel><content src="xhtml/08_Chapter_3_Apple.xhtml#pageMap_95"/></pageTarget>
+		<pageTarget type="normal" value="96" id="navPoint226" playOrder="226"><navLabel><text>96</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_96"/></pageTarget>
+		<pageTarget type="normal" value="97" id="navPoint227" playOrder="227"><navLabel><text>97</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_97"/></pageTarget>
+		<pageTarget type="normal" value="98" id="navPoint228" playOrder="228"><navLabel><text>98</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_98"/></pageTarget>
+		<pageTarget type="normal" value="99" id="navPoint229" playOrder="229"><navLabel><text>99</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_99"/></pageTarget>
+		<pageTarget type="normal" value="100" id="navPoint230" playOrder="230"><navLabel><text>100</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_100"/></pageTarget>
+		<pageTarget type="normal" value="101" id="navPoint231" playOrder="231"><navLabel><text>101</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_101"/></pageTarget>
+		<pageTarget type="normal" value="102" id="navPoint232" playOrder="232"><navLabel><text>102</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_102"/></pageTarget>
+		<pageTarget type="normal" value="103" id="navPoint233" playOrder="233"><navLabel><text>103</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_103"/></pageTarget>
+		<pageTarget type="normal" value="104" id="navPoint234" playOrder="234"><navLabel><text>104</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_104"/></pageTarget>
+		<pageTarget type="normal" value="105" id="navPoint235" playOrder="235"><navLabel><text>105</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_105"/></pageTarget>
+		<pageTarget type="normal" value="106" id="navPoint236" playOrder="236"><navLabel><text>106</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_106"/></pageTarget>
+		<pageTarget type="normal" value="107" id="navPoint237" playOrder="237"><navLabel><text>107</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_107"/></pageTarget>
+		<pageTarget type="normal" value="108" id="navPoint238" playOrder="238"><navLabel><text>108</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_108"/></pageTarget>
+		<pageTarget type="normal" value="109" id="navPoint239" playOrder="239"><navLabel><text>109</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_109"/></pageTarget>
+		<pageTarget type="normal" value="110" id="navPoint240" playOrder="240"><navLabel><text>110</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_110"/></pageTarget>
+		<pageTarget type="normal" value="111" id="navPoint241" playOrder="241"><navLabel><text>111</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_111"/></pageTarget>
+		<pageTarget type="normal" value="112" id="navPoint242" playOrder="242"><navLabel><text>112</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_112"/></pageTarget>
+		<pageTarget type="normal" value="113" id="navPoint243" playOrder="243"><navLabel><text>113</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_113"/></pageTarget>
+		<pageTarget type="normal" value="114" id="navPoint244" playOrder="244"><navLabel><text>114</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_114"/></pageTarget>
+		<pageTarget type="normal" value="115" id="navPoint245" playOrder="245"><navLabel><text>115</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_115"/></pageTarget>
+		<pageTarget type="normal" value="116" id="navPoint246" playOrder="246"><navLabel><text>116</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_116"/></pageTarget>
+		<pageTarget type="normal" value="117" id="navPoint247" playOrder="247"><navLabel><text>117</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_117"/></pageTarget>
+		<pageTarget type="normal" value="118" id="navPoint248" playOrder="248"><navLabel><text>118</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_118"/></pageTarget>
+		<pageTarget type="normal" value="119" id="navPoint249" playOrder="249"><navLabel><text>119</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_119"/></pageTarget>
+		<pageTarget type="normal" value="120" id="navPoint250" playOrder="250"><navLabel><text>120</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_120"/></pageTarget>
+		<pageTarget type="normal" value="121" id="navPoint251" playOrder="251"><navLabel><text>121</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_121"/></pageTarget>
+		<pageTarget type="normal" value="122" id="navPoint252" playOrder="252"><navLabel><text>122</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_122"/></pageTarget>
+		<pageTarget type="normal" value="123" id="navPoint253" playOrder="253"><navLabel><text>123</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_123"/></pageTarget>
+		<pageTarget type="normal" value="124" id="navPoint254" playOrder="254"><navLabel><text>124</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_124"/></pageTarget>
+		<pageTarget type="normal" value="125" id="navPoint255" playOrder="255"><navLabel><text>125</text></navLabel><content src="xhtml/09_Chapter_4_Facebook.xhtml#pageMap_125"/></pageTarget>
+		<pageTarget type="normal" value="126" id="navPoint256" playOrder="256"><navLabel><text>126</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_126"/></pageTarget>
+		<pageTarget type="normal" value="127" id="navPoint257" playOrder="257"><navLabel><text>127</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_127"/></pageTarget>
+		<pageTarget type="normal" value="128" id="navPoint258" playOrder="258"><navLabel><text>128</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_128"/></pageTarget>
+		<pageTarget type="normal" value="129" id="navPoint259" playOrder="259"><navLabel><text>129</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_129"/></pageTarget>
+		<pageTarget type="normal" value="130" id="navPoint260" playOrder="260"><navLabel><text>130</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_130"/></pageTarget>
+		<pageTarget type="normal" value="131" id="navPoint261" playOrder="261"><navLabel><text>131</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_131"/></pageTarget>
+		<pageTarget type="normal" value="132" id="navPoint262" playOrder="262"><navLabel><text>132</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_132"/></pageTarget>
+		<pageTarget type="normal" value="133" id="navPoint263" playOrder="263"><navLabel><text>133</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_133"/></pageTarget>
+		<pageTarget type="normal" value="134" id="navPoint264" playOrder="264"><navLabel><text>134</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_134"/></pageTarget>
+		<pageTarget type="normal" value="135" id="navPoint265" playOrder="265"><navLabel><text>135</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_135"/></pageTarget>
+		<pageTarget type="normal" value="136" id="navPoint266" playOrder="266"><navLabel><text>136</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_136"/></pageTarget>
+		<pageTarget type="normal" value="137" id="navPoint267" playOrder="267"><navLabel><text>137</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_137"/></pageTarget>
+		<pageTarget type="normal" value="138" id="navPoint268" playOrder="268"><navLabel><text>138</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_138"/></pageTarget>
+		<pageTarget type="normal" value="139" id="navPoint269" playOrder="269"><navLabel><text>139</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_139"/></pageTarget>
+		<pageTarget type="normal" value="140" id="navPoint270" playOrder="270"><navLabel><text>140</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_140"/></pageTarget>
+		<pageTarget type="normal" value="141" id="navPoint271" playOrder="271"><navLabel><text>141</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_141"/></pageTarget>
+		<pageTarget type="normal" value="142" id="navPoint272" playOrder="272"><navLabel><text>142</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_142"/></pageTarget>
+		<pageTarget type="normal" value="143" id="navPoint273" playOrder="273"><navLabel><text>143</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_143"/></pageTarget>
+		<pageTarget type="normal" value="144" id="navPoint274" playOrder="274"><navLabel><text>144</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_144"/></pageTarget>
+		<pageTarget type="normal" value="145" id="navPoint275" playOrder="275"><navLabel><text>145</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_145"/></pageTarget>
+		<pageTarget type="normal" value="146" id="navPoint276" playOrder="276"><navLabel><text>146</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_146"/></pageTarget>
+		<pageTarget type="normal" value="147" id="navPoint277" playOrder="277"><navLabel><text>147</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_147"/></pageTarget>
+		<pageTarget type="normal" value="148" id="navPoint278" playOrder="278"><navLabel><text>148</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_148"/></pageTarget>
+		<pageTarget type="normal" value="149" id="navPoint279" playOrder="279"><navLabel><text>149</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_149"/></pageTarget>
+		<pageTarget type="normal" value="150" id="navPoint280" playOrder="280"><navLabel><text>150</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_150"/></pageTarget>
+		<pageTarget type="normal" value="151" id="navPoint281" playOrder="281"><navLabel><text>151</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_151"/></pageTarget>
+		<pageTarget type="normal" value="152" id="navPoint282" playOrder="282"><navLabel><text>152</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_152"/></pageTarget>
+		<pageTarget type="normal" value="153" id="navPoint283" playOrder="283"><navLabel><text>153</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_153"/></pageTarget>
+		<pageTarget type="normal" value="154" id="navPoint284" playOrder="284"><navLabel><text>154</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_154"/></pageTarget>
+		<pageTarget type="normal" value="155" id="navPoint285" playOrder="285"><navLabel><text>155</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_155"/></pageTarget>
+		<pageTarget type="normal" value="156" id="navPoint286" playOrder="286"><navLabel><text>156</text></navLabel><content src="xhtml/10_Chapter_5_Google.xhtml#pageMap_156"/></pageTarget>
+		<pageTarget type="normal" value="157" id="navPoint287" playOrder="287"><navLabel><text>157</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_157"/></pageTarget>
+		<pageTarget type="normal" value="158" id="navPoint288" playOrder="288"><navLabel><text>158</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_158"/></pageTarget>
+		<pageTarget type="normal" value="159" id="navPoint289" playOrder="289"><navLabel><text>159</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_159"/></pageTarget>
+		<pageTarget type="normal" value="160" id="navPoint290" playOrder="290"><navLabel><text>160</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_160"/></pageTarget>
+		<pageTarget type="normal" value="161" id="navPoint291" playOrder="291"><navLabel><text>161</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_161"/></pageTarget>
+		<pageTarget type="normal" value="162" id="navPoint292" playOrder="292"><navLabel><text>162</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_162"/></pageTarget>
+		<pageTarget type="normal" value="163" id="navPoint293" playOrder="293"><navLabel><text>163</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_163"/></pageTarget>
+		<pageTarget type="normal" value="164" id="navPoint294" playOrder="294"><navLabel><text>164</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_164"/></pageTarget>
+		<pageTarget type="normal" value="165" id="navPoint295" playOrder="295"><navLabel><text>165</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_165"/></pageTarget>
+		<pageTarget type="normal" value="166" id="navPoint296" playOrder="296"><navLabel><text>166</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_166"/></pageTarget>
+		<pageTarget type="normal" value="167" id="navPoint297" playOrder="297"><navLabel><text>167</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_167"/></pageTarget>
+		<pageTarget type="normal" value="168" id="navPoint298" playOrder="298"><navLabel><text>168</text></navLabel><content src="xhtml/11_Chapter_6_Lie_to_Me.xhtml#pageMap_168"/></pageTarget>
+		<pageTarget type="normal" value="169" id="navPoint299" playOrder="299"><navLabel><text>169</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_169"/></pageTarget>
+		<pageTarget type="normal" value="170" id="navPoint300" playOrder="300"><navLabel><text>170</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_170"/></pageTarget>
+		<pageTarget type="normal" value="171" id="navPoint301" playOrder="301"><navLabel><text>171</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_171"/></pageTarget>
+		<pageTarget type="normal" value="172" id="navPoint302" playOrder="302"><navLabel><text>172</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_172"/></pageTarget>
+		<pageTarget type="normal" value="173" id="navPoint303" playOrder="303"><navLabel><text>173</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_173"/></pageTarget>
+		<pageTarget type="normal" value="174" id="navPoint304" playOrder="304"><navLabel><text>174</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_174"/></pageTarget>
+		<pageTarget type="normal" value="175" id="navPoint305" playOrder="305"><navLabel><text>175</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_175"/></pageTarget>
+		<pageTarget type="normal" value="176" id="navPoint306" playOrder="306"><navLabel><text>176</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_176"/></pageTarget>
+		<pageTarget type="normal" value="177" id="navPoint307" playOrder="307"><navLabel><text>177</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_177"/></pageTarget>
+		<pageTarget type="normal" value="178" id="navPoint308" playOrder="308"><navLabel><text>178</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_178"/></pageTarget>
+		<pageTarget type="normal" value="179" id="navPoint309" playOrder="309"><navLabel><text>179</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_179"/></pageTarget>
+		<pageTarget type="normal" value="180" id="navPoint310" playOrder="310"><navLabel><text>180</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_180"/></pageTarget>
+		<pageTarget type="normal" value="181" id="navPoint311" playOrder="311"><navLabel><text>181</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_181"/></pageTarget>
+		<pageTarget type="normal" value="182" id="navPoint312" playOrder="312"><navLabel><text>182</text></navLabel><content src="xhtml/12_Chapter_7_Business_an.xhtml#pageMap_182"/></pageTarget>
+		<pageTarget type="normal" value="183" id="navPoint313" playOrder="313"><navLabel><text>183</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_183"/></pageTarget>
+		<pageTarget type="normal" value="184" id="navPoint314" playOrder="314"><navLabel><text>184</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_184"/></pageTarget>
+		<pageTarget type="normal" value="185" id="navPoint315" playOrder="315"><navLabel><text>185</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_185"/></pageTarget>
+		<pageTarget type="normal" value="186" id="navPoint316" playOrder="316"><navLabel><text>186</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_186"/></pageTarget>
+		<pageTarget type="normal" value="187" id="navPoint317" playOrder="317"><navLabel><text>187</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_187"/></pageTarget>
+		<pageTarget type="normal" value="188" id="navPoint318" playOrder="318"><navLabel><text>188</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_188"/></pageTarget>
+		<pageTarget type="normal" value="189" id="navPoint319" playOrder="319"><navLabel><text>189</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_189"/></pageTarget>
+		<pageTarget type="normal" value="190" id="navPoint320" playOrder="320"><navLabel><text>190</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_190"/></pageTarget>
+		<pageTarget type="normal" value="191" id="navPoint321" playOrder="321"><navLabel><text>191</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_191"/></pageTarget>
+		<pageTarget type="normal" value="192" id="navPoint322" playOrder="322"><navLabel><text>192</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_192"/></pageTarget>
+		<pageTarget type="normal" value="193" id="navPoint323" playOrder="323"><navLabel><text>193</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_193"/></pageTarget>
+		<pageTarget type="normal" value="194" id="navPoint324" playOrder="324"><navLabel><text>194</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_194"/></pageTarget>
+		<pageTarget type="normal" value="195" id="navPoint325" playOrder="325"><navLabel><text>195</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_195"/></pageTarget>
+		<pageTarget type="normal" value="196" id="navPoint326" playOrder="326"><navLabel><text>196</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_196"/></pageTarget>
+		<pageTarget type="normal" value="197" id="navPoint327" playOrder="327"><navLabel><text>197</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_197"/></pageTarget>
+		<pageTarget type="normal" value="198" id="navPoint328" playOrder="328"><navLabel><text>198</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_198"/></pageTarget>
+		<pageTarget type="normal" value="199" id="navPoint329" playOrder="329"><navLabel><text>199</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_199"/></pageTarget>
+		<pageTarget type="normal" value="200" id="navPoint330" playOrder="330"><navLabel><text>200</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_200"/></pageTarget>
+		<pageTarget type="normal" value="201" id="navPoint331" playOrder="331"><navLabel><text>201</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_201"/></pageTarget>
+		<pageTarget type="normal" value="202" id="navPoint332" playOrder="332"><navLabel><text>202</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_202"/></pageTarget>
+		<pageTarget type="normal" value="203" id="navPoint333" playOrder="333"><navLabel><text>203</text></navLabel><content src="xhtml/13_Chapter_8_The_T_Algor.xhtml#pageMap_203"/></pageTarget>
+		<pageTarget type="normal" value="204" id="navPoint334" playOrder="334"><navLabel><text>204</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_204"/></pageTarget>
+		<pageTarget type="normal" value="205" id="navPoint335" playOrder="335"><navLabel><text>205</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_205"/></pageTarget>
+		<pageTarget type="normal" value="206" id="navPoint336" playOrder="336"><navLabel><text>206</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_206"/></pageTarget>
+		<pageTarget type="normal" value="207" id="navPoint337" playOrder="337"><navLabel><text>207</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_207"/></pageTarget>
+		<pageTarget type="normal" value="208" id="navPoint338" playOrder="338"><navLabel><text>208</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_208"/></pageTarget>
+		<pageTarget type="normal" value="209" id="navPoint339" playOrder="339"><navLabel><text>209</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_209"/></pageTarget>
+		<pageTarget type="normal" value="210" id="navPoint340" playOrder="340"><navLabel><text>210</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_210"/></pageTarget>
+		<pageTarget type="normal" value="211" id="navPoint341" playOrder="341"><navLabel><text>211</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_211"/></pageTarget>
+		<pageTarget type="normal" value="212" id="navPoint342" playOrder="342"><navLabel><text>212</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_212"/></pageTarget>
+		<pageTarget type="normal" value="213" id="navPoint343" playOrder="343"><navLabel><text>213</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_213"/></pageTarget>
+		<pageTarget type="normal" value="214" id="navPoint344" playOrder="344"><navLabel><text>214</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_214"/></pageTarget>
+		<pageTarget type="normal" value="215" id="navPoint345" playOrder="345"><navLabel><text>215</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_215"/></pageTarget>
+		<pageTarget type="normal" value="216" id="navPoint346" playOrder="346"><navLabel><text>216</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_216"/></pageTarget>
+		<pageTarget type="normal" value="217" id="navPoint347" playOrder="347"><navLabel><text>217</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_217"/></pageTarget>
+		<pageTarget type="normal" value="218" id="navPoint348" playOrder="348"><navLabel><text>218</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_218"/></pageTarget>
+		<pageTarget type="normal" value="219" id="navPoint349" playOrder="349"><navLabel><text>219</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_219"/></pageTarget>
+		<pageTarget type="normal" value="220" id="navPoint350" playOrder="350"><navLabel><text>220</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_220"/></pageTarget>
+		<pageTarget type="normal" value="221" id="navPoint351" playOrder="351"><navLabel><text>221</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_221"/></pageTarget>
+		<pageTarget type="normal" value="222" id="navPoint352" playOrder="352"><navLabel><text>222</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_222"/></pageTarget>
+		<pageTarget type="normal" value="223" id="navPoint353" playOrder="353"><navLabel><text>223</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_223"/></pageTarget>
+		<pageTarget type="normal" value="224" id="navPoint354" playOrder="354"><navLabel><text>224</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_224"/></pageTarget>
+		<pageTarget type="normal" value="225" id="navPoint355" playOrder="355"><navLabel><text>225</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_225"/></pageTarget>
+		<pageTarget type="normal" value="226" id="navPoint356" playOrder="356"><navLabel><text>226</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_226"/></pageTarget>
+		<pageTarget type="normal" value="227" id="navPoint357" playOrder="357"><navLabel><text>227</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_227"/></pageTarget>
+		<pageTarget type="normal" value="228" id="navPoint358" playOrder="358"><navLabel><text>228</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_228"/></pageTarget>
+		<pageTarget type="normal" value="229" id="navPoint359" playOrder="359"><navLabel><text>229</text></navLabel><content src="xhtml/14_Chapter_9_The_Fifth_H.xhtml#pageMap_229"/></pageTarget>
+		<pageTarget type="normal" value="230" id="navPoint360" playOrder="360"><navLabel><text>230</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_230"/></pageTarget>
+		<pageTarget type="normal" value="231" id="navPoint361" playOrder="361"><navLabel><text>231</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_231"/></pageTarget>
+		<pageTarget type="normal" value="232" id="navPoint362" playOrder="362"><navLabel><text>232</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_232"/></pageTarget>
+		<pageTarget type="normal" value="233" id="navPoint363" playOrder="363"><navLabel><text>233</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_233"/></pageTarget>
+		<pageTarget type="normal" value="234" id="navPoint364" playOrder="364"><navLabel><text>234</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_234"/></pageTarget>
+		<pageTarget type="normal" value="235" id="navPoint365" playOrder="365"><navLabel><text>235</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_235"/></pageTarget>
+		<pageTarget type="normal" value="236" id="navPoint366" playOrder="366"><navLabel><text>236</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_236"/></pageTarget>
+		<pageTarget type="normal" value="237" id="navPoint367" playOrder="367"><navLabel><text>237</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_237"/></pageTarget>
+		<pageTarget type="normal" value="238" id="navPoint368" playOrder="368"><navLabel><text>238</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_238"/></pageTarget>
+		<pageTarget type="normal" value="239" id="navPoint369" playOrder="369"><navLabel><text>239</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_239"/></pageTarget>
+		<pageTarget type="normal" value="240" id="navPoint370" playOrder="370"><navLabel><text>240</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_240"/></pageTarget>
+		<pageTarget type="normal" value="241" id="navPoint371" playOrder="371"><navLabel><text>241</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_241"/></pageTarget>
+		<pageTarget type="normal" value="242" id="navPoint372" playOrder="372"><navLabel><text>242</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_242"/></pageTarget>
+		<pageTarget type="normal" value="243" id="navPoint373" playOrder="373"><navLabel><text>243</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_243"/></pageTarget>
+		<pageTarget type="normal" value="244" id="navPoint374" playOrder="374"><navLabel><text>244</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_244"/></pageTarget>
+		<pageTarget type="normal" value="245" id="navPoint375" playOrder="375"><navLabel><text>245</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_245"/></pageTarget>
+		<pageTarget type="normal" value="246" id="navPoint376" playOrder="376"><navLabel><text>246</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_246"/></pageTarget>
+		<pageTarget type="normal" value="247" id="navPoint377" playOrder="377"><navLabel><text>247</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_247"/></pageTarget>
+		<pageTarget type="normal" value="248" id="navPoint378" playOrder="378"><navLabel><text>248</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_248"/></pageTarget>
+		<pageTarget type="normal" value="249" id="navPoint379" playOrder="379"><navLabel><text>249</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_249"/></pageTarget>
+		<pageTarget type="normal" value="250" id="navPoint380" playOrder="380"><navLabel><text>250</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_250"/></pageTarget>
+		<pageTarget type="normal" value="251" id="navPoint381" playOrder="381"><navLabel><text>251</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_251"/></pageTarget>
+		<pageTarget type="normal" value="252" id="navPoint382" playOrder="382"><navLabel><text>252</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_252"/></pageTarget>
+		<pageTarget type="normal" value="253" id="navPoint383" playOrder="383"><navLabel><text>253</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_253"/></pageTarget>
+		<pageTarget type="normal" value="254" id="navPoint384" playOrder="384"><navLabel><text>254</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_254"/></pageTarget>
+		<pageTarget type="normal" value="255" id="navPoint385" playOrder="385"><navLabel><text>255</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_255"/></pageTarget>
+		<pageTarget type="normal" value="256" id="navPoint386" playOrder="386"><navLabel><text>256</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_256"/></pageTarget>
+		<pageTarget type="normal" value="257" id="navPoint387" playOrder="387"><navLabel><text>257</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_257"/></pageTarget>
+		<pageTarget type="normal" value="258" id="navPoint388" playOrder="388"><navLabel><text>258</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_258"/></pageTarget>
+		<pageTarget type="normal" value="259" id="navPoint389" playOrder="389"><navLabel><text>259</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_259"/></pageTarget>
+		<pageTarget type="normal" value="260" id="navPoint390" playOrder="390"><navLabel><text>260</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_260"/></pageTarget>
+		<pageTarget type="normal" value="261" id="navPoint391" playOrder="391"><navLabel><text>261</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_261"/></pageTarget>
+		<pageTarget type="normal" value="262" id="navPoint392" playOrder="392"><navLabel><text>262</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_262"/></pageTarget>
+		<pageTarget type="normal" value="263" id="navPoint393" playOrder="393"><navLabel><text>263</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_263"/></pageTarget>
+		<pageTarget type="normal" value="264" id="navPoint394" playOrder="394"><navLabel><text>264</text></navLabel><content src="xhtml/15_Chapter_10_The_Four_a.xhtml#pageMap_264"/></pageTarget>
+		<pageTarget type="normal" value="265" id="navPoint395" playOrder="395"><navLabel><text>265</text></navLabel><content src="xhtml/16_Chapter_11_After_the_.xhtml#pageMap_265"/></pageTarget>
+		<pageTarget type="normal" value="266" id="navPoint396" playOrder="396"><navLabel><text>266</text></navLabel><content src="xhtml/16_Chapter_11_After_the_.xhtml#pageMap_266"/></pageTarget>
+		<pageTarget type="normal" value="267" id="navPoint397" playOrder="397"><navLabel><text>267</text></navLabel><content src="xhtml/16_Chapter_11_After_the_.xhtml#pageMap_267"/></pageTarget>
+		<pageTarget type="normal" value="268" id="navPoint398" playOrder="398"><navLabel><text>268</text></navLabel><content src="xhtml/16_Chapter_11_After_the_.xhtml#pageMap_268"/></pageTarget>
+		<pageTarget type="normal" value="269" id="navPoint399" playOrder="399"><navLabel><text>269</text></navLabel><content src="xhtml/17_Acknowledgments.xhtml#pageMap_269"/></pageTarget>
+		<pageTarget type="normal" value="270" id="navPoint400" playOrder="400"><navLabel><text>270</text></navLabel><content src="xhtml/17_Acknowledgments.xhtml#pageMap_270"/></pageTarget>
+		<pageTarget type="normal" value="271" id="navPoint401" playOrder="401"><navLabel><text>271</text></navLabel><content src="xhtml/18_Illustration_Credits.xhtml#pageMap_271"/></pageTarget>
+		<pageTarget type="normal" value="272" id="navPoint402" playOrder="402"><navLabel><text>272</text></navLabel><content src="xhtml/18_Illustration_Credits.xhtml#pageMap_272"/></pageTarget>
+		<pageTarget type="normal" value="273" id="navPoint403" playOrder="403"><navLabel><text>273</text></navLabel><content src="xhtml/18_Illustration_Credits.xhtml#pageMap_273"/></pageTarget>
+		<pageTarget type="normal" value="274" id="navPoint404" playOrder="404"><navLabel><text>274</text></navLabel><content src="xhtml/18_Illustration_Credits.xhtml#pageMap_274"/></pageTarget>
+		<pageTarget type="normal" value="275" id="navPoint405" playOrder="405"><navLabel><text>275</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_275"/></pageTarget>
+		<pageTarget type="normal" value="276" id="navPoint406" playOrder="406"><navLabel><text>276</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_276"/></pageTarget>
+		<pageTarget type="normal" value="277" id="navPoint407" playOrder="407"><navLabel><text>277</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_277"/></pageTarget>
+		<pageTarget type="normal" value="278" id="navPoint408" playOrder="408"><navLabel><text>278</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_278"/></pageTarget>
+		<pageTarget type="normal" value="279" id="navPoint409" playOrder="409"><navLabel><text>279</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_279"/></pageTarget>
+		<pageTarget type="normal" value="280" id="navPoint410" playOrder="410"><navLabel><text>280</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_280"/></pageTarget>
+		<pageTarget type="normal" value="281" id="navPoint411" playOrder="411"><navLabel><text>281</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_281"/></pageTarget>
+		<pageTarget type="normal" value="282" id="navPoint412" playOrder="412"><navLabel><text>282</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_282"/></pageTarget>
+		<pageTarget type="normal" value="283" id="navPoint413" playOrder="413"><navLabel><text>283</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_283"/></pageTarget>
+		<pageTarget type="normal" value="284" id="navPoint414" playOrder="414"><navLabel><text>284</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_284"/></pageTarget>
+		<pageTarget type="normal" value="285" id="navPoint415" playOrder="415"><navLabel><text>285</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_285"/></pageTarget>
+		<pageTarget type="normal" value="286" id="navPoint416" playOrder="416"><navLabel><text>286</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_286"/></pageTarget>
+		<pageTarget type="normal" value="287" id="navPoint417" playOrder="417"><navLabel><text>287</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_287"/></pageTarget>
+		<pageTarget type="normal" value="288" id="navPoint418" playOrder="418"><navLabel><text>288</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_288"/></pageTarget>
+		<pageTarget type="normal" value="289" id="navPoint419" playOrder="419"><navLabel><text>289</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_289"/></pageTarget>
+		<pageTarget type="normal" value="290" id="navPoint420" playOrder="420"><navLabel><text>290</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_290"/></pageTarget>
+		<pageTarget type="normal" value="291" id="navPoint421" playOrder="421"><navLabel><text>291</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_291"/></pageTarget>
+		<pageTarget type="normal" value="292" id="navPoint422" playOrder="422"><navLabel><text>292</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_292"/></pageTarget>
+		<pageTarget type="normal" value="293" id="navPoint423" playOrder="423"><navLabel><text>293</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_293"/></pageTarget>
+		<pageTarget type="normal" value="294" id="navPoint424" playOrder="424"><navLabel><text>294</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_294"/></pageTarget>
+		<pageTarget type="normal" value="295" id="navPoint425" playOrder="425"><navLabel><text>295</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_295"/></pageTarget>
+		<pageTarget type="normal" value="296" id="navPoint426" playOrder="426"><navLabel><text>296</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_296"/></pageTarget>
+		<pageTarget type="normal" value="297" id="navPoint427" playOrder="427"><navLabel><text>297</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_297"/></pageTarget>
+		<pageTarget type="normal" value="298" id="navPoint428" playOrder="428"><navLabel><text>298</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_298"/></pageTarget>
+		<pageTarget type="normal" value="299" id="navPoint429" playOrder="429"><navLabel><text>299</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_299"/></pageTarget>
+		<pageTarget type="normal" value="300" id="navPoint430" playOrder="430"><navLabel><text>300</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_300"/></pageTarget>
+		<pageTarget type="normal" value="301" id="navPoint431" playOrder="431"><navLabel><text>301</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_301"/></pageTarget>
+		<pageTarget type="normal" value="302" id="navPoint432" playOrder="432"><navLabel><text>302</text></navLabel><content src="xhtml/19_Notes.xhtml#pageMap_302"/></pageTarget>
+		<pageTarget type="normal" value="303" id="navPoint433" playOrder="433"><navLabel><text>303</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_303"/></pageTarget>
+		<pageTarget type="normal" value="304" id="navPoint434" playOrder="434"><navLabel><text>304</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_304"/></pageTarget>
+		<pageTarget type="normal" value="305" id="navPoint435" playOrder="435"><navLabel><text>305</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_305"/></pageTarget>
+		<pageTarget type="normal" value="306" id="navPoint436" playOrder="436"><navLabel><text>306</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_306"/></pageTarget>
+		<pageTarget type="normal" value="307" id="navPoint437" playOrder="437"><navLabel><text>307</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_307"/></pageTarget>
+		<pageTarget type="normal" value="308" id="navPoint438" playOrder="438"><navLabel><text>308</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_308"/></pageTarget>
+		<pageTarget type="normal" value="309" id="navPoint439" playOrder="439"><navLabel><text>309</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_309"/></pageTarget>
+		<pageTarget type="normal" value="310" id="navPoint440" playOrder="440"><navLabel><text>310</text></navLabel><content src="xhtml/20_Index.xhtml#pageMap_310"/></pageTarget>
+	</pageList>
+</ncx>

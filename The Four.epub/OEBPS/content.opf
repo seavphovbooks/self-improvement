@@ -1,0 +1,114 @@
+<package xmlns="http://www.idpf.org/2007/opf" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="bookid" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>The Four</dc:title>
+		<dc:creator id="creator1">Scott Galloway</dc:creator>
+		<meta property="display-seq" refines="#creator1">1</meta>
+		<meta property="role" refines="#creator1" scheme="marc:relators">aut</meta>
+		<meta property="file-as" refines="#creator1">Galloway, Scott</meta>
+		<dc:publisher>Penguin Publishing Group</dc:publisher>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2017-09-13T09:44:24Z</meta>
+		<dc:date>2017-10-03</dc:date>
+		<dc:source id="src-id">9780735213654</dc:source>
+		<meta content="Adobe InDesign 12.1" name="generator"/>
+		<meta content="cover.jpg" name="cover"/>
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:identifier id="bookid">9780735213661</dc:identifier>
+	<description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;Amazon, Apple, Facebook, and Google are the four most influential companies on the planet. &lt;br&gt;&lt;/b&gt;&lt;br&gt; &lt;b&gt;Just about everyone thinks they know how they got there. &lt;br&gt;&lt;/b&gt;&lt;br&gt; &lt;b&gt;Just about everyone is wrong. &lt;br&gt;&lt;/b&gt;&lt;br&gt;For all that's been written about the Four over the last two decades, no one has captured their power and staggering success as insightfully as Scott Galloway. &lt;br&gt; Instead of buying the myths these compa&amp;shy;nies broadcast, Galloway asks fundamental questions. How did the Four infiltrate our lives so completely that they're almost impossible to avoid (or boycott)? Why does the stock market forgive them for sins that would destroy other firms? And as they race to become the world's first trillion-dollar company, can anyone chal&amp;shy;lenge them? &lt;br&gt; In the same irreverent style that has made him one of the world's most celebrated business professors, Galloway deconstructs the strategies of the Four that lurk beneath their shiny veneers. He shows how they...</description>
+</metadata>
+	<manifest>
+		<item href="xhtml/01_Cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+		<item href="xhtml/02_Title_Page.xhtml" id="x9780735213661_EPUB" media-type="application/xhtml+xml"/>
+		<item href="xhtml/03_Copyright.xhtml" id="x9780735213661_EPUB-1" media-type="application/xhtml+xml"/>
+		<item href="xhtml/04_Dedication.xhtml" id="x9780735213661_EPUB-2" media-type="application/xhtml+xml"/>
+		<item href="xhtml/05_Contents.xhtml" id="x9780735213661_EPUB-3" media-type="application/xhtml+xml"/>
+		<item href="xhtml/06_Chapter_1_The_Four.xhtml" id="x9780735213661_EPUB-4" media-type="application/xhtml+xml"/>
+		<item href="xhtml/07_Chapter_2_Amazon.xhtml" id="x9780735213661_EPUB-5" media-type="application/xhtml+xml"/>
+		<item href="xhtml/08_Chapter_3_Apple.xhtml" id="x9780735213661_EPUB-6" media-type="application/xhtml+xml"/>
+		<item href="xhtml/09_Chapter_4_Facebook.xhtml" id="x9780735213661_EPUB-7" media-type="application/xhtml+xml"/>
+		<item href="xhtml/10_Chapter_5_Google.xhtml" id="x9780735213661_EPUB-8" media-type="application/xhtml+xml"/>
+		<item href="xhtml/11_Chapter_6_Lie_to_Me.xhtml" id="x9780735213661_EPUB-9" media-type="application/xhtml+xml"/>
+		<item href="xhtml/12_Chapter_7_Business_an.xhtml" id="x9780735213661_EPUB-10" media-type="application/xhtml+xml"/>
+		<item href="xhtml/13_Chapter_8_The_T_Algor.xhtml" id="x9780735213661_EPUB-11" media-type="application/xhtml+xml"/>
+		<item href="xhtml/14_Chapter_9_The_Fifth_H.xhtml" id="x9780735213661_EPUB-12" media-type="application/xhtml+xml"/>
+		<item href="xhtml/15_Chapter_10_The_Four_a.xhtml" id="x9780735213661_EPUB-13" media-type="application/xhtml+xml"/>
+		<item href="xhtml/16_Chapter_11_After_the_.xhtml" id="x9780735213661_EPUB-14" media-type="application/xhtml+xml"/>
+		<item href="xhtml/17_Acknowledgments.xhtml" id="x9780735213661_EPUB-15" media-type="application/xhtml+xml"/>
+		<item href="xhtml/18_Illustration_Credits.xhtml" id="x9780735213661_EPUB-16" media-type="application/xhtml+xml"/>
+		<item href="xhtml/19_Notes.xhtml" id="x9780735213661_EPUB-17" media-type="application/xhtml+xml"/>
+		<item href="xhtml/20_Index.xhtml" id="x9780735213661_EPUB-18" media-type="application/xhtml+xml"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="navDoc.xhtml" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css"/>
+		<item href="image/01.jpg" id="x01.jpg" media-type="image/jpeg"/>
+		<item href="image/02_1P.jpg" id="x02_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/03.jpg" id="x03.jpg" media-type="image/jpeg"/>
+		<item href="image/04.jpg" id="x04.jpg" media-type="image/jpeg"/>
+		<item href="image/05.jpg" id="x05.jpg" media-type="image/jpeg"/>
+		<item href="image/06_1P.jpg" id="x06_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/07_1P.jpg" id="x07_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/08.jpg" id="x08.jpg" media-type="image/jpeg"/>
+		<item href="image/09.jpg" id="x09.jpg" media-type="image/jpeg"/>
+		<item href="image/1.jpg" id="x1.jpg" media-type="image/jpeg"/>
+		<item href="image/10.jpg" id="x10.jpg" media-type="image/jpeg"/>
+		<item href="image/11.jpg" id="x11.jpg" media-type="image/jpeg"/>
+		<item href="image/11A.jpg" id="x11A.jpg" media-type="image/jpeg"/>
+		<item href="image/13_1P.jpg" id="x13_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/14.jpg" id="x14.jpg" media-type="image/jpeg"/>
+		<item href="image/15_1P.jpg" id="x15_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/15A.jpg" id="x15A.jpg" media-type="image/jpeg"/>
+		<item href="image/16.jpg" id="x16.jpg" media-type="image/jpeg"/>
+		<item href="image/17.jpg" id="x17.jpg" media-type="image/jpeg"/>
+		<item href="image/18_1P.jpg" id="x18_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/19.jpg" id="x19.jpg" media-type="image/jpeg"/>
+		<item href="image/20.jpg" id="x20.jpg" media-type="image/jpeg"/>
+		<item href="image/21_1P.jpg" id="x21_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/22_1P.jpg" id="x22_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/23.jpg" id="x23.jpg" media-type="image/jpeg"/>
+		<item href="image/25.jpg" id="x25.jpg" media-type="image/jpeg"/>
+		<item href="image/26_1P.jpg" id="x26_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/27_1P.jpg" id="x27_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/28.jpg" id="x28.jpg" media-type="image/jpeg"/>
+		<item href="image/29_1P.jpg" id="x29_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/30.jpg" id="x30.jpg" media-type="image/jpeg"/>
+		<item href="image/31.jpg" id="x31.jpg" media-type="image/jpeg"/>
+		<item href="image/32_1P.jpg" id="x32_1P.jpg" media-type="image/jpeg"/>
+		<item href="image/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="image/page_iii.jpg" id="page_iii.jpg" media-type="image/jpeg"/>
+		<item href="image/penguin-logo-for-copyright.jpg" id="penguin-logo-for-copyright.jpg" media-type="image/jpeg"/>
+		<item href="image/PortfolioPenguinLogo_K.jpg" id="PortfolioPenguinLogo_K.jpg" media-type="image/jpeg"/>
+		<item href="font/Fort-Book.otf" id="Fort-Book.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="font/Shift-BoldItalic.otf" id="Shift-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="font/Shift-Light.otf" id="Shift-Light.otf" media-type="application/vnd.ms-opentype"/>
+		<item href="xhtml/next-reads.xhtml" id="next-reads.xhtml" media-type="application/xhtml+xml"/>
+		<item href="image/next-reads_logo.jpg" id="next-reads_logo.jpg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover"/>
+		<itemref idref="x9780735213661_EPUB"/>
+		<itemref idref="x9780735213661_EPUB-1"/>
+		<itemref idref="x9780735213661_EPUB-2"/>
+		<itemref idref="x9780735213661_EPUB-3"/>
+		<itemref idref="x9780735213661_EPUB-4"/>
+		<itemref idref="x9780735213661_EPUB-5"/>
+		<itemref idref="x9780735213661_EPUB-6"/>
+		<itemref idref="x9780735213661_EPUB-7"/>
+		<itemref idref="x9780735213661_EPUB-8"/>
+		<itemref idref="x9780735213661_EPUB-9"/>
+		<itemref idref="x9780735213661_EPUB-10"/>
+		<itemref idref="x9780735213661_EPUB-11"/>
+		<itemref idref="x9780735213661_EPUB-12"/>
+		<itemref idref="x9780735213661_EPUB-13"/>
+		<itemref idref="x9780735213661_EPUB-14"/>
+		<itemref idref="x9780735213661_EPUB-15"/>
+		<itemref idref="x9780735213661_EPUB-16"/>
+		<itemref idref="x9780735213661_EPUB-17"/>
+		<itemref idref="x9780735213661_EPUB-18"/>
+		<itemref idref="next-reads.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="xhtml/01_Cover.xhtml" title="Cover" type="cover"/>
+		<reference href="xhtml/05_Contents.xhtml" title="Table of Contents" type="toc"/>
+		<reference href="xhtml/06_Chapter_1_The_Four.xhtml" title="Start" type="text"/>
+	</guide>
+</package>

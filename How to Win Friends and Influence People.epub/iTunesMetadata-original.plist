@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Dale Carnegie</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>EAC9D0B306A5CD177B9A0687D1AC56DE</string>
+		<key>cover-image-path</key>
+		<string>ops/images/9781451621716.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>274FF0A5988D9B7D511DD7150156DDC9</string>
+		<key>publisher-unique-id</key>
+		<string>9781451621716</string>
+		<key>unique-id</key>
+		<integer>-4353720058312218220</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>How to Win Friends and Influence People</string>
+	<key>playlistName</key>
+	<string>How to Win Friends and Influence People</string>
+	<key>releaseDate</key>
+	<string>1981</string>
+</dict>
+</plist>
